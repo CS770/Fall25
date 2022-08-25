@@ -3,7 +3,7 @@ title: Schedule
 nav_order: 2
 ---
 
-Links to lecture slides, readings, assignments will be posted in the table below by the time of the lecture or the release of the assignment.  <a class="label label-blue" >R</a> links to readings for that day, <a class="label label-green" >O</a> indicating an optional reading; <a class="label label-yellow">D</a> links to Canvas discussion forum; and <a class="label label-red" >H</a> links to hands-on-activity handouts.
+Links to lecture slides, readings, assignments will be posted in the table below by the time of the lecture or the release of the assignment.  <a class="label label-blue" >R</a> links to readings for that day, <a class="label label-green" >O</a> indicating an optional reading; and <a class="label label-red" >H</a> links to hands-on-activity handouts.
 
 <table>
   <thead>
@@ -150,8 +150,8 @@ Links to lecture slides, readings, assignments will be posted in the table below
          <a target="_blank" class="label label-blue" href="http://faculty.washington.edu/jtenenbg/publications/blindPersonInteraction-cacm2009.pdf">R1</a>
         <a target="_blank" class="label label-blue" href="https://canvas.wisc.edu/courses/192620/files/10973320/download?wrap=1">R2</a>
         <a target="_blank" class="label label-blue" href="https://dl.acm.org/doi/pdf/10.1145/1866029.1866080?download=true">R3</a>
-        <a target="_blank" class="label label-blue" href="https://dl.acm.org/doi/pdf/10.1145/2700648.2809853?download=true">O1</a>
-          <a target="_blank" class="label label-blue" href="https://dl.acm.org/doi/pdf/10.1145/2700648.2809865?download=true">O2</a></span>
+        <a target="_blank" class="label label-green" href="https://dl.acm.org/doi/pdf/10.1145/2700648.2809853?download=true">O1</a>
+          <a target="_blank" class="label label-green" href="https://dl.acm.org/doi/pdf/10.1145/2700648.2809865?download=true">O2</a></span>
         <!-- <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550128">D</a></span> -->
       </td>
       <td>November 2<br />
@@ -221,7 +221,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
       <td>November 23<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w11-methods-statistics-1.pdf">Statistics I</a><br />
         <a target="_blank" class="label label-blue" href="https://www-sciencedirect-com.ezproxy.library.wisc.edu/science/article/pii/B9780128053904000042">R</a> <em>(Pages 71-80)</em>
-        <a target="_blank" class="label label-blue" href="https://ebookcentral.proquest.com/lib/wisc/reader.action?docID=1110719&ppg=210">O</a>
+        <a target="_blank" class="label label-green" href="https://ebookcentral.proquest.com/lib/wisc/reader.action?docID=1110719&ppg=210">O</a>
         <a target="_blank" class="label label-red" href="https://docs.google.com/document/d/1RiSo2nXzAV_v5xE0INPRULC4l5DgKukdBsmErdbCQhQ/edit?usp=sharing">H</a></span>
         <!-- <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a> -->
           <!-- <a target="_blank" class="btn btn-green" href="https://us-lti.bbcollab.com/recording/f030a126cc6d49a1accd1df3ecdf584b">Recording</a></span> -->
@@ -235,7 +235,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <a target="_blank" class="label label-blue" href="http://physiologicalcomputing.org/wp-content/uploads/2015/03/fundamentals1.pdf">R1</a>
         <a target="_blank" class="label label-blue" href="http://usd-apps.usd.edu/coglab/schieber/hedonomics/pdf/Jeon_Ch9.pdf">R2</a>
         <a target="_blank" class="label label-blue" href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/Brain-Computer-Interfacing-for-Intelligent-Systems.pdf">R3</a>
-        <a target="_blank" class="label label-blue" href="http://pages.cs.wisc.edu/~bilge/pubs/2012/CHI12-Szafir.pdf">O</a></span>
+        <a target="_blank" class="label label-green" href="http://pages.cs.wisc.edu/~bilge/pubs/2012/CHI12-Szafir.pdf">O</a></span>
         <!-- <a target="_blank" class="label label-green" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550122">D</a><br />
         <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a> -->
           <!-- <a target="_blank" class="btn btn-green" href="https://us-lti.bbcollab.com/recording/e8be0327965a4aa9be7a4fae9f2c16d3">Recording</a></span> -->
@@ -243,7 +243,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
       <td>November 30<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w12-methods-statistics-2.pdf">Statistics II</a><br />
         <a target="_blank" class="label label-blue" href="https://www-sciencedirect-com.ezproxy.library.wisc.edu/science/article/pii/B9780128053904000042">R</a> <em>(Pages 80-104)</em>
-        <a target="_blank" class="label label-blue" href="https://ebookcentral.proquest.com/lib/wisc/reader.action?docID=1110719&ppg=210">O</a></span>
+        <a target="_blank" class="label label-green" href="https://ebookcentral.proquest.com/lib/wisc/reader.action?docID=1110719&ppg=210">O</a></span>
         <!-- <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a> -->
           <!-- <a target="_blank" class="btn btn-green" href="https://us-lti.bbcollab.com/recording/95d5a197cfb740439c3a76711d6f726d">Recording</a></span> -->
       </td>
@@ -265,7 +265,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
       <td>December 7<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w13-methods-statistics-3.pdf">Statistics III</a><br />
         <a target="_blank" class="label label-blue" href="https://www-sciencedirect-com.ezproxy.library.wisc.edu/science/article/pii/B9780128053904000042">R</a> <em>(Pages 80-104)</em>
-        <a target="_blank" class="label label-blue" href="https://ebookcentral.proquest.com/lib/wisc/reader.action?docID=1110719&ppg=210">O</a></span>
+        <a target="_blank" class="label label-green" href="https://ebookcentral.proquest.com/lib/wisc/reader.action?docID=1110719&ppg=210">O</a></span>
         <!-- <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a> -->
           <!-- <a target="_blank" class="btn btn-green" href="https://us-lti.bbcollab.com/recording/fc46d041731643cd883c2f802543ffaf">Recording</a></span> -->
       </td>
@@ -279,8 +279,8 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <a target="_blank" class="label label-blue" href="http://faculty.washington.edu/jtenenbg/publications/blindPersonInteraction-cacm2009.pdf">R1</a>
         <a target="_blank" class="label label-blue" href="https://canvas.wisc.edu/courses/192620/files/10973320/download?wrap=1">R2</a>
         <a target="_blank" class="label label-blue" href="https://dl.acm.org/doi/pdf/10.1145/1866029.1866080?download=true">R3</a>
-        <a target="_blank" class="label label-blue" href="https://dl.acm.org/doi/pdf/10.1145/2700648.2809853?download=true">O1</a>
-          <a target="_blank" class="label label-blue" href="https://dl.acm.org/doi/pdf/10.1145/2700648.2809865?download=true">O2</a></span>
+        <a target="_blank" class="label label-green" href="https://dl.acm.org/doi/pdf/10.1145/2700648.2809853?download=true">O1</a>
+          <a target="_blank" class="label label-green" href="https://dl.acm.org/doi/pdf/10.1145/2700648.2809865?download=true">O2</a></span>
         <!-- <a target="_blank" class="label label-green" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550126">D</a><br /> -->
         <!-- <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a> -->
           <!-- <a target="_blank" class="btn btn-green" href="https://us-lti.bbcollab.com/recording/50b2397f45cc43f6b6e1199d20329dcd">Recording</a></span> -->
