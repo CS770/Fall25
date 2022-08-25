@@ -38,7 +38,7 @@ The course consists of three modules: (1) **seminar**, which reviews major resea
 		<a class="label" href="">Course location</a>
 	</td>
 	<td>
-		MW 1:00-2:15 pm, Ed Sciences 228
+		MW 1:00-2:15 pm, NOLAND 168
 	</td>
 </tr>
 <tr>
@@ -46,7 +46,7 @@ The course consists of three modules: (1) **seminar**, which reviews major resea
 		<a class="label" href="">Instructor office hours</a>
 	</td>
 	<td>
-		MW 2:15-2:45 pm, Ed Sciences 228
+		Tuesday 4:00-5:00 pm, CS 6393
 	</td>
 </tr>
 <tr>
@@ -54,7 +54,7 @@ The course consists of three modules: (1) **seminar**, which reviews major resea
 		<a class="label" href="">TA office hours</a>
 	</td>
 	<td>
-		Tue 4:30-5:30 pm, Thu 1:00-2:00 pm, CS 1308 
+		Monday 4:00-5:00 pm, Thu 1:00-2:00 pm, TBD 
 	</td>
 </tr>
 </table>

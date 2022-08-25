@@ -10,7 +10,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
     <tr>
       <th><strong>Seminar</strong></th>
       <th><strong>Methods</strong></th>
-      <th><strong>Assignments</strong></th>
+     <!-- <th><strong>Assignments</strong></th> -->
       <th><strong>Project</strong></th>
     </tr>
   </thead>
@@ -18,7 +18,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
     <tr>
       <td><em>Mondays</em></td>
       <td><em>Wednesdays</em></td>
-      <td><em>Due Fridays</em></td>
+    <!--  <td><em>Due Fridays</em></td> -->
       <td><em>Due Mondays</em></td>
     </tr>
     <tr>
