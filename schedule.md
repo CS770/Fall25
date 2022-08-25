@@ -67,7 +67,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
     </tr>
     <tr>
       <td>September 26<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w04-seminar-modeling.pdf">User Modeling</a></span><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w04-seminar-modeling.pdf">Artificial Agents</a></span><br />
         <a target="_blank" class="label label-blue" href="https://canvas.wisc.edu/courses/192620/files/10973312/download?wrap=1">R1</a>
         <a target="_blank" class="label label-blue" href="https://canvas.wisc.edu/courses/192620/files/10973284/download?wrap=1">R2</a>
         <a target="_blank" class="label label-blue" href="https://canvas.wisc.edu/courses/192620/files/10973285/download?wrap=1">R3</a>
@@ -82,7 +82,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
     </tr>
     <tr>
       <td>October 3<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w05-seminar-agents.pdf">Artificial Agents</a></span><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w05-seminar-agents.pdf">CMC</a></span><br />
         <a target="_blank" class="label label-blue" href="http://www.aistudy.co.kr/paper/aaai_journal/AIMag22-04-007.pdf">R1</a>
         <a target="_blank" class="label label-blue" href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.87.2456&rep=rep1&type=pdf">R2</a>
         <a target="_blank" class="label label-blue" href="https://www.aaai.org/ojs/index.php/aimagazine/article/view/2376/2250">R3</a>
@@ -100,7 +100,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
     </tr>
     <tr>
       <td>October 10<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w06-seminar-cmc.pdf">CMC</a><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w06-seminar-cmc.pdf">CSCW</a><br />
         <a target="_blank" class="label label-blue" href="https://canvas.wisc.edu/courses/192620/files/10973286/download?wrap=1">R1</a>
         <a target="_blank" class="label label-blue" href="https://canvas.wisc.edu/courses/192620/files/10973287/download?wrap=1">R2</a>
         <a target="_blank" class="label label-blue" href="http://dgergle.soc.northwestern.edu/resources/BosOlsonGergleOlsonWright_RichMediaTrust_CHI02.pdf">R3</a>
@@ -118,7 +118,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
     </tr>
     <tr>
       <td>October 17<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w07-seminar-cscw.pdf">CSCW</a><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w07-seminar-cscw.pdf">Crowdsourcing</a><br />
         <a target="_blank" class="label label-blue" href="https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/IEEEComputer1994.pdf">R1</a>
         <a target="_blank" class="label label-blue" href="https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/groupware-and-social-dynamics.pdf">R2</a>
         <a target="_blank" class="label label-blue" href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.92.2557&rep=rep1&type=pdf">R3</a>
@@ -222,7 +222,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
     </tr>
     <tr>
       <td>November 28<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w12-seminar-physiological-computing.pdf">Physiological Comp.</a><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w12-seminar-physiological-computing.pdf">Physiological Computing</a><br />
         <a target="_blank" class="label label-blue" href="http://physiologicalcomputing.org/wp-content/uploads/2015/03/fundamentals1.pdf">R1</a>
         <a target="_blank" class="label label-blue" href="http://usd-apps.usd.edu/coglab/schieber/hedonomics/pdf/Jeon_Ch9.pdf">R2</a>
         <a target="_blank" class="label label-blue" href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/Brain-Computer-Interfacing-for-Intelligent-Systems.pdf">R3</a>
