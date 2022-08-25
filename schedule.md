@@ -62,7 +62,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/192620/assignments/747906">Assignment 0</a></span>
       </td> -->
       <td>September 23<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/192620/assignments/747930#">Topic selection</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Topic selection</a></span>
       </td>
     </tr>
     <tr>
@@ -97,7 +97,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
       </td>
       <!-- <td></td> -->
       <td>October 7<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/192620/assignments/747927">Literature survey</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Literature survey</a></span>
       </td>
     </tr>
     <tr>
@@ -161,7 +161,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
       </td>
       <!-- <td></td> -->
       <td>November 11<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/192620/assignments/747928">Method</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Method</a></span>
       </td>
     </tr>
     <tr>
@@ -251,7 +251,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/192620/assignments/747909">Assignment 2.B</a></span>
       </td> -->
       <td>December 2<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/192620/assignments/809057">Data collection</a></span></td>
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Data collection</a></span></td>
     </tr>
     <tr>
       <td>December 5<br />
@@ -269,7 +269,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <!-- <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a> -->
           <!-- <a target="_blank" class="btn btn-green" href="https://us-lti.bbcollab.com/recording/fc46d041731643cd883c2f802543ffaf">Recording</a></span> -->
       </td>
-      <!-- <td></td> -->
+      <td></td>
       <!-- <td>December 9<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/192620/assignments/809057">Data collection</a></span></td> -->
     </tr>
@@ -301,7 +301,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
       <td></td>    
       <!-- <td></td> -->
       <td>December 21<br />
-        <span class="fs-3"><a class="btn btn-blue" href="https://canvas.wisc.edu/courses/192620/assignments/747926#">Final paper</a></span>
+        <span class="fs-3"><a class="btn btn-blue" href="">Final paper</a></span>
       </td>
       <td></td>
     </tr>
