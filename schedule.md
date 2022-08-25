@@ -142,7 +142,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
     </tr>
     <tr>
       <td>October 31<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w08-seminar-crowdsourcing.pdf">Crowdsourcing</a><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w08-seminar-crowdsourcing.pdf">Accessibility</a><br />
         <a target="_blank" class="label label-blue" href="http://www.cs.umd.edu/~bederson/images/pubs_pdfs/p1403-quinn.pdf">R1</a>
         <a target="_blank" class="label label-blue" href="http://www2.cs.siu.edu/~dche2/files/futureofcrowdwork-cscw2013.pdf">R2</a>
         <a target="_blank" class="label label-blue" href="http://people.csail.mit.edu/msbernst/papers/soylent-uist2010.pdf">R3</a>
@@ -246,7 +246,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
     </tr>
     <tr>
       <td>December 5<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w13-seminar-authoring-tools.pdf">Authoring Tools</a><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w13-seminar-authoring-tools.pdf">Augmented/Virtual Reality</a><br />
         <a target="_blank" class="label label-blue" href="https://faculty.washington.edu/ajko/papers/Ko2011EndUserSoftwareEngineering.pdf">R1</a>
         <a target="_blank" class="label label-blue" href="http://pages.cs.wisc.edu/~aws/papers/uist19.pdf">R2</a>
         <a target="_blank" class="label label-green" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550125">D</a><br />
@@ -266,7 +266,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
     </tr>
     <tr>
       <td>December 12<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w14-seminar-accessibility.pdf">Accessibility</a><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w14-seminar-accessibility.pdf">Final Presentation</a><br />
         <a target="_blank" class="label label-blue" href="http://faculty.washington.edu/jtenenbg/publications/blindPersonInteraction-cacm2009.pdf">R1</a>
         <a target="_blank" class="label label-blue" href="https://canvas.wisc.edu/courses/192620/files/10973320/download?wrap=1">R2</a>
         <a target="_blank" class="label label-blue" href="https://dl.acm.org/doi/pdf/10.1145/1866029.1866080?download=true">R3</a>
@@ -277,7 +277,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
           <a target="_blank" class="btn btn-green" href="https://us-lti.bbcollab.com/recording/50b2397f45cc43f6b6e1199d20329dcd">Recording</a></span>
       </td>
       <td>December 14<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w14-methods-reporting.pdf">Reporting</a><br /><a target="_blank" class="label label-blue" href="https://canvas.wisc.edu/courses/192620/assignments/825579">R</a><a target="_blank" class="label label-red" href="https://docs.google.com/document/d/1tw_Ryv5sbk7gjFmo82KlAp28x-F2oWmZYsm3KDEQs3E/edit?usp=sharing">H</a><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w14-methods-reporting.pdf">Final Presentation</a><br /><a target="_blank" class="label label-blue" href="https://canvas.wisc.edu/courses/192620/assignments/825579">R</a><a target="_blank" class="label label-red" href="https://docs.google.com/document/d/1tw_Ryv5sbk7gjFmo82KlAp28x-F2oWmZYsm3KDEQs3E/edit?usp=sharing">H</a><br />
         <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a>
           <a target="_blank" class="btn btn-green" href="https://us-lti.bbcollab.com/recording/bbe401da7caf4deb9f1f0c2e765823e6">Recording</a></span>
       </td>
