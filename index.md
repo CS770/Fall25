@@ -9,7 +9,7 @@ This course introduces graduate students in computer science, psychology, educat
 
 The course consists of three modules: (1) **seminar**, which reviews major research topics in HCI through a set of readings, class presentations, and discussions; (2) **methods**, which covers qualitative and quantitative human-subjects research through lectures, tutorials, hands-on activities, and weekly assignments; and (3) **project**, where students complete a semester-long project, usually involving empirical research, that culminates in the writing of a short paper. Below is a visual overview of the topics that will be covered in the seminar and methods modules.
 
-![Screen Shot 2020-01-17 at 10.12.20 AM](figures/Screen Shot 2020-01-17 at 10.12.20 AM.png)
+![Screen Shot 2020-01-17 at 10.12.20 AM](figures/framework.png)
 
 
 
@@ -46,7 +46,7 @@ The course consists of three modules: (1) **seminar**, which reviews major resea
 		<a class="label" href="">Instructor office hours</a>
 	</td>
 	<td>
-		Tuesday 4:00-5:00 pm, CS 6393
+		Tuesday 4:00-5:00 pm, <a href="https://uwmadison.zoom.us/j/6154400037?pwd=aWl4RGhwWjFoLyswVnZNdWRUb0JJdz09">Zoom</a>
 	</td>
 </tr>
 <tr>
@@ -54,7 +54,7 @@ The course consists of three modules: (1) **seminar**, which reviews major resea
 		<a class="label" href="">TA office hours</a>
 	</td>
 	<td>
-		Monday 4:00-5:00 pm, Thu 1:00-2:00 pm, TBD 
+		Monday 4:00-5:00 pm, Thu 1:00-2:00 pm, <a href="https://uwmadison.zoom.us/j/99360889315?pwd=MS9FQ2NmckR5Q0h1dTVEZnhqdVNJUT09">Zoom</a> 
 	</td>
 </tr>
 </table>
