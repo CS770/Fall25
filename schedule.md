@@ -54,9 +54,9 @@ Links to lecture slides, readings, assignments will be posted in the table below
       </td>
       <td>September 21<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Choosing Methods</a></span><br />
-        <a target="_blank" class="label label-blue" href="">R1</a>
-        <a target="_blank" class="label label-blue" href="">R2</a>
-        <a target="_blank" class="label label-red" href="">H</a>
+        <a target="_blank" class="label label-blue" href="https://drive.google.com/file/d/1-bxZwbhy0nG3Tgxt1-01Dy7eqagjwqqC/view">R1</a>
+        <a target="_blank" class="label label-blue" href="https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.167.1159&rep=rep1&type=pdf">R2</a>
+        <a target="_blank" class="label label-red" href="https://drive.google.com/file/d/1Ekssejdm9Mfy_CEX8jL1zDx2zISJJqfk/view">H</a>
       </td>
       <!-- <td>February 07<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/192620/assignments/747906">Assignment 0</a></span>
