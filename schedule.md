@@ -29,7 +29,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
     </tr>
     <tr>
       <td>September 12<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w02-seminar-history.pdf">History of HCI</a></span><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">History of HCI</a></span><br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Project Introduction</a></span><br />
         <a target="_blank" class="label label-blue" href="https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/HCIhandbook3rd.pdf">R</a>
         <!-- <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550135">D</a> -->
