@@ -51,7 +51,7 @@ The course consists of three modules: (1) **seminar**, which reviews major resea
 		<a class="label" href="">TA office hours</a>
 	</td>
 	<td>
-		Monday 4:00-5:00 pm, Thu 1:00-2:00 pm, <a href="https://uwmadison.zoom.us/j/99360889315?pwd=MS9FQ2NmckR5Q0h1dTVEZnhqdVNJUT09">Zoom</a> 
+		Monday 4:00-5:00 pm, Thu 4:00-5:00 pm, <a href="https://uwmadison.zoom.us/j/99360889315?pwd=MS9FQ2NmckR5Q0h1dTVEZnhqdVNJUT09">Zoom</a> 
 	</td>
 </tr>
 </table>
