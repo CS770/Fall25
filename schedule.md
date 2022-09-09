@@ -2,7 +2,6 @@
 title: Schedule
 nav_order: 2
 ---
-<script async defer src="https://buttons.github.io/buttons.js"></script>
 Links to lecture slides, readings, assignments will be posted in the table below by the time of the lecture or the release of the assignment.  <a class="label label-blue" >R</a> links to readings for that day, <a class="label label-green" >O</a> indicating an optional reading; and <a class="label label-red" >H</a> links to hands-on-activity handouts.
 
 <table>
