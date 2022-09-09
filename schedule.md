@@ -23,8 +23,9 @@ Links to lecture slides, readings, assignments will be posted in the table below
     </tr>
     <tr>
       <td>September 5<br /><em>No class</em></td>
-      <td>September 7<br /><span class="fs-3"><a target="_blank" class="btn btn-purple" href="https://drive.google.com/file/d/1SGCG7XjfundvuHk5Z1KPoRlR1Y3njlgD/view">Course Introduction</a></span>
-      <a target="_blank" class="label label-blue" href="https://mediaspace.wisc.edu/media/Yuhang%20Zhao-Noland%20168-09_07_22-12%3A57%3A34/1_76gwvkf3">(Video)</a>
+      <td>September 7<br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="https://drive.google.com/file/d/1SGCG7XjfundvuHk5Z1KPoRlR1Y3njlgD/view">Course Introduction</a></span><br />
+        <button name="button" onclick="https://mediaspace.wisc.edu/media/Yuhang%20Zhao-Noland%20168-09_07_22-12%3A57%3A34/1_76gwvkf3">Recording</button>
       </td>
       <td></td>
       <!-- <td></td> -->
