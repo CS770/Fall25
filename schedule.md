@@ -31,8 +31,8 @@ Links to lecture slides, readings, assignments will be posted in the table below
     </tr>
     <tr>
       <td>September 12<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">History of HCI</a></span><br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Project Introduction</a></span><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="https://drive.google.com/file/d/1SRGk3wG7wriYeRH-TmYuZU1IiG31_7Q5/view?usp=sharing">History of HCI</a></span><br />
+        <!-- <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Project Introduction</a></span><br /> -->
         <a target="_blank" class="label label-blue" href="https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/HCIhandbook3rd.pdf">R</a>
         <!-- <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550135">D</a> -->
       </td>
@@ -64,7 +64,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/192620/assignments/747906">Assignment 0</a></span>
       </td> -->
       <td>September 23<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://docs.google.com/spreadsheets/d/1nTBEac3eLYnZTYePEkLqG64nNaNJX-1XztFtBNO-rdk/edit?usp=sharing">Topic selection</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/321750/assignments/1713658">Topic selection</a></span>
       </td>
     </tr>
     <tr>
