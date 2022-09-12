@@ -24,7 +24,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
       <td>September 5<br /><em>No class</em></td>
       <td>September 7<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="https://drive.google.com/file/d/1SGCG7XjfundvuHk5Z1KPoRlR1Y3njlgD/view">Course Introduction</a></span><br />
-      <span class="fs-3"><a target="_blank" class="btn btn-purple" href="https://mediaspace.wisc.edu/media/Yuhang%20Zhao-Noland%20168-09_07_22-12%3A57%3A34/1_76gwvkf3">Recording</a></span><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="https://mediaspace.wisc.edu/media/Yuhang%20Zhao-Noland%20168-09_07_22-12%3A57%3A34/1_76gwvkf3">Recording</a></span><br />
       </td>
       <td></td>
       <!-- <td></td> -->
@@ -64,7 +64,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/192620/assignments/747906">Assignment 0</a></span>
       </td> -->
       <td>September 23<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Topic selection</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://docs.google.com/spreadsheets/d/1nTBEac3eLYnZTYePEkLqG64nNaNJX-1XztFtBNO-rdk/edit?usp=sharing">Topic selection</a></span>
       </td>
     </tr>
     <tr>
