@@ -23,7 +23,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
     <tr>
       <td>September 5<br /><em>No class</em></td>
       <td>September 7<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="https://drive.google.com/file/d/1STfVnHFV0uTVh3wX47yDf7n1I9R0zjTK/view?usp=sharing">Course Introduction</a></span><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="https://drive.google.com/file/d/1SGCG7XjfundvuHk5Z1KPoRlR1Y3njlgD/view?usp=sharing">Course Introduction</a></span><br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="https://mediaspace.wisc.edu/media/Yuhang%20Zhao-Noland%20168-09_07_22-12%3A57%3A34/1_76gwvkf3">Recording</a></span><br />
       </td>
       <td></td>
@@ -39,7 +39,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
       </td>
       <td>September 14<br />
         <span class="fs-3">
-          <a target="_blank" class="btn btn-purple" href="https://drive.google.com/drive/u/1/folders/1SFehv4zOs3Uv96m6CfNbcehT63WgfLPS">Introduction</a><br />
+          <a target="_blank" class="btn btn-purple" href="https://drive.google.com/file/d/1STfVnHFV0uTVh3wX47yDf7n1I9R0zjTK/view?usp=sharing">Introduction</a><br />
           <a target="_blank" class="label label-blue" href="https://www-sciencedirect-com.ezproxy.library.wisc.edu/science/article/pii/B9780128053904000017">R</a>
           <a target="_blank" class="label label-red" href="https://drive.google.com/file/d/1LN7xLtpxXraXKaNvIUxV4nx_TSyyUiL4/view">H</a>
         </span>
