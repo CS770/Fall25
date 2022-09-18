@@ -32,7 +32,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
     <tr>
       <td>September 12<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="https://drive.google.com/file/d/1SRGk3wG7wriYeRH-TmYuZU1IiG31_7Q5/view?usp=sharing">History of HCI</a></span><br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="https://mediaspace.wisc.edu/media/Yuhang%20Zhao-Noland%20168-09_12_22-12%3A46%3A24/1_ik3rlsrc">Recording</a></span><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="https://mediaspace.wisc.edu/media/Yuhang%20Zhao-Noland%20168-09_12_22-12%3A46%3A24/1_ik3rlsrc">Recording</a></span><br />
         <!-- <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Project Introduction</a></span><br /> -->
         <a target="_blank" class="label label-blue" href="https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/HCIhandbook3rd.pdf">R</a>
         <!-- <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550135">D</a> -->
@@ -40,7 +40,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
       <td>September 14<br />
         <span class="fs-3">
           <a target="_blank" class="btn btn-purple" href="https://drive.google.com/file/d/1STfVnHFV0uTVh3wX47yDf7n1I9R0zjTK/view?usp=sharing">Introduction</a><br />
-          <span class="fs-3"><a target="_blank" class="btn btn-purple" href="https://mediaspace.wisc.edu/media/Yuhang+Zhao-Noland+168-09+14+22-12A54A14/1_uf0vl017">Recording</a></span><br />
+          <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="https://mediaspace.wisc.edu/media/Yuhang+Zhao-Noland+168-09+14+22-12A54A14/1_uf0vl017">Recording</a></span><br />
           <a target="_blank" class="label label-blue" href="https://www-sciencedirect-com.ezproxy.library.wisc.edu/science/article/pii/B9780128053904000017">R</a>
           <a target="_blank" class="label label-red" href="https://drive.google.com/file/d/1LN7xLtpxXraXKaNvIUxV4nx_TSyyUiL4/view">H</a>
         </span>
@@ -60,6 +60,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Choosing Methods</a></span><br />
         <a target="_blank" class="label label-blue" href="https://drive.google.com/file/d/1-bxZwbhy0nG3Tgxt1-01Dy7eqagjwqqC/view">R1</a>
         <a target="_blank" class="label label-blue" href="https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.167.1159&rep=rep1&type=pdf">R2</a>
+        <a target="_blank" class="label label-green" href="https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.318.1093&rep=rep1&type=pdf">O1</a>
         <a target="_blank" class="label label-red" href="https://drive.google.com/file/d/1Ekssejdm9Mfy_CEX8jL1zDx2zISJJqfk/view">H</a>
       </td>
       <!-- <td>February 07<br />
@@ -72,15 +73,17 @@ Links to lecture slides, readings, assignments will be posted in the table below
     <tr>
       <td>September 26<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Artificial Agents</a></span><br />
-        <a target="_blank" class="label label-blue" href="">R1</a>
-        <a target="_blank" class="label label-blue" href="">R2</a>
-        <a target="_blank" class="label label-blue" href="">R3</a>
+        <a target="_blank" class="label label-blue" href="http://www.aistudy.co.kr/paper/aaai_journal/AIMag22-04-007.pdf">R1</a>
+        <a target="_blank" class="label label-blue" href="https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.87.2456&rep=rep1&type=pdf">R2</a>
+        <a target="_blank" class="label label-blue" href="https://www.aaai.org/ojs/index.php/aimagazine/article/view/2376/2250">R3</a>
         <!-- <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550133">D</a> -->
       </td>
       <td>September 28<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Ethnography</a></span><br />
-        <a target="_blank" class="label label-blue" href="">R</a>
-        <a target="_blank" class="label label-red" href="">H</a>
+        <a target="_blank" class="label label-blue" href="https://www-sciencedirect-com.ezproxy.library.wisc.edu/science/article/pii/B9780128053904000091">R</a>
+        <a target="_blank" class="label label-green" href="https://onlinelibrary.wiley.com/doi/abs/10.1046/j.1365-2648.2003.02514.x">O</a>
+        <a target="_blank" class="label label-green" href="https://vimeo.com/1269848">V</a>
+        <a target="_blank" class="label label-red" href="https://drive.google.com/file/d/1GplAalpjCtNKJFdH14nezjj09K-8ExZN/view">H</a>
       </td>
       <!-- <td></td> -->
       <td></td>
@@ -88,16 +91,17 @@ Links to lecture slides, readings, assignments will be posted in the table below
     <tr>
       <td>October 3<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">CMC</a></span><br />
-        <a target="_blank" class="label label-blue" href="">R1</a>
-        <a target="_blank" class="label label-blue" href="">R2</a>
-        <a target="_blank" class="label label-blue" href="">R3</a>
+        <a target="_blank" class="label label-blue" href="https://drive.google.com/file/d/1Z_tfrkKD4xlN_9pXMX9aeBG6JsXPCgUd/view">R1</a>
+        <a target="_blank" class="label label-blue" href="https://drive.google.com/file/d/1-kPGGhyaJddPUF9DyHgG7VjMTubzeuh8/view">R2</a>
+        <a target="_blank" class="label label-blue" href="https://dgergle.soc.northwestern.edu//resources/BosOlsonGergleOlsonWright_RichMediaTrust_CHI02.pdf">R3</a>
         <!-- <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550132">D</a> -->
       </td>
       <td>October 5<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Qualitative analysis</a></span><br />
-        <a target="_blank" class="label label-blue" href="">R1</a>
-        <a target="_blank" class="label label-blue" href="">R2</a>
-        <a target="_blank" class="label label-red" href="">H</a>
+        <a target="_blank" class="label label-blue" href="https://www-sciencedirect-com.ezproxy.library.wisc.edu/science/article/pii/B978012805390400011X">R1</a>
+        <a target="_blank" class="label label-blue" href="https://www.sagepub.com/sites/default/files/upm-binaries/24614_01_Saldana_Ch_01.pdf">R2</a>
+        <a target="_blank" class="label label-red" href="https://drive.google.com/file/d/1TI2NIM4_KJl_T3M2iKh7AE5zE65e9fKn/view">H</a>
+        <a target="_blank" class="label label-red" href="https://drive.google.com/file/d/1ImQW06qRVUC8Tr4-XCH_7epnXwT6Goe5/view">D</a>
       </td>
       <!-- <td></td> -->
       <td>October 7<br />
