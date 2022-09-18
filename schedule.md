@@ -41,6 +41,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <span class="fs-3">
           <a target="_blank" class="btn btn-purple" href="https://drive.google.com/file/d/1STfVnHFV0uTVh3wX47yDf7n1I9R0zjTK/view?usp=sharing">Introduction</a><br />
           <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="https://mediaspace.wisc.edu/media/Yuhang+Zhao-Noland+168-09+14+22-12A54A14/1_uf0vl017">Recording</a></span><br />
+          <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="https://docs.google.com/document/d/1O2fNc7z8ROv5rjFYO--JpUW3-u1mFKXH3q8MWSjGaNc/edit">Notes</a></span><br />
           <a target="_blank" class="label label-blue" href="https://www-sciencedirect-com.ezproxy.library.wisc.edu/science/article/pii/B9780128053904000017">R</a>
           <a target="_blank" class="label label-red" href="https://drive.google.com/file/d/1LN7xLtpxXraXKaNvIUxV4nx_TSyyUiL4/view">H</a>
         </span>
