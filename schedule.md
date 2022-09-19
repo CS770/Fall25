@@ -52,7 +52,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
     <tr>
       <td>September 19<br />
         <span class="fs-3">
-          <a target="_blank" class="btn btn-purple" href="">Research Frameworks</a><br />
+          <a target="_blank" class="btn btn-purple" href="https://drive.google.com/file/d/1S_om4Tu009-VeYOsCBz0BW_GuSUhi-hm/view?usp=sharing">Research Theories</a><br />
           <a target="_blank" class="label label-blue" href="https://drive.google.com/file/d/1L3WTK7fI508dZr-kDn6O7IhYpybxvVAg/view">R</a>
         <!-- <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550134">D</a> -->
         </span>
