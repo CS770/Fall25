@@ -70,7 +70,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/192620/assignments/747906">Assignment 0</a></span>
       </td> -->
       <td>September 23<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/321750/assignments/1713658">Topic selection</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/321750/assignments/1713658">Topic selection</a></span><br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://drive.google.com/drive/folders/1xMWxO9E5Txky55ObodXL3ZsrW9s4QMhY?usp=sharing">Project Examples</a></span>
       </td>
     </tr>
