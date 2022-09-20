@@ -53,6 +53,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
       <td>September 19<br />
         <span class="fs-3">
           <a target="_blank" class="btn btn-purple" href="https://drive.google.com/file/d/1S_om4Tu009-VeYOsCBz0BW_GuSUhi-hm/view?usp=sharing">Research Theories</a><br />
+          <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="https://mediaspace.wisc.edu/media/Yuhang+Zhao-Noland+168-09+19+22-12A51A36/1_jopnd8gf">Recording</a></span><br />
           <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="https://docs.google.com/document/d/1VcdWHzPgCu8gwJ9Gqva9N91cbTHHL2K8FfiKh0VeDps/edit?usp=sharing">Notes</a></span><br />
           <a target="_blank" class="label label-blue" href="https://drive.google.com/file/d/1L3WTK7fI508dZr-kDn6O7IhYpybxvVAg/view">R</a>
         <!-- <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550134">D</a> -->
