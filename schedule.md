@@ -60,7 +60,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
         </span>
       </td>
       <td>September 21<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Choosing Methods</a></span><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="https://drive.google.com/file/d/1T-wZijBh75yRlmJFaWtqLEC6DWBD6F0v/view?usp=sharing">Choosing Methods</a></span><br />
         <a target="_blank" class="label label-blue" href="https://drive.google.com/file/d/1-bxZwbhy0nG3Tgxt1-01Dy7eqagjwqqC/view">R1</a>
         <a target="_blank" class="label label-blue" href="https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.167.1159&rep=rep1&type=pdf">R2</a>
         <a target="_blank" class="label label-green" href="https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.318.1093&rep=rep1&type=pdf">O1</a>
