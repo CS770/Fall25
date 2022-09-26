@@ -78,6 +78,8 @@ Links to lecture slides, readings, assignments will be posted in the table below
     <tr>
       <td>September 26<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="https://drive.google.com/file/d/1T5f4cvbThzSUWcr3KNjK1TmRbpvYym-C/view?usp=sharing">Artificial Agents</a></span><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="https://mediaspace.wisc.edu/media/Yuhang+Zhao-Noland+168-09+26+22-12A59A16/1_2afuzacd">Recording</a></span><br />
+          <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="https://docs.google.com/document/d/1w4pH4DAq4B-N9PnyBeXs02F-nUGjcpMALr19eOp9XDM/edit?usp=sharing">Notes</a></span><br />
         <a target="_blank" class="label label-blue" href="http://www.aistudy.co.kr/paper/aaai_journal/AIMag22-04-007.pdf">R1</a>
         <a target="_blank" class="label label-blue" href="https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.87.2456&rep=rep1&type=pdf">R2</a>
         <a target="_blank" class="label label-blue" href="https://www.aaai.org/ojs/index.php/aimagazine/article/view/2376/2250">R3</a>
