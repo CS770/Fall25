@@ -87,6 +87,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
       </td>
       <td>September 28<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="https://drive.google.com/file/d/1TF3SIeZf1c5YF914hu7Fao69eTM6_7lT/view?usp=sharing">Ethnography</a></span><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="https://mediaspace.wisc.edu/media/Yuhang+Zhao-Noland+168-09+28+22-12A57A44/1_5wnrdwp5">Recording</a></span><br />
         <a target="_blank" class="label label-blue" href="https://www-sciencedirect-com.ezproxy.library.wisc.edu/science/article/pii/B9780128053904000091">R</a>
         <a target="_blank" class="label label-green" href="https://onlinelibrary.wiley.com/doi/abs/10.1046/j.1365-2648.2003.02514.x">O</a>
         <a target="_blank" class="label label-green" href="https://vimeo.com/1269848">V</a>
