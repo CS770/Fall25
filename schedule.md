@@ -119,16 +119,16 @@ Links to lecture slides, readings, assignments will be posted in the table below
     <tr>
       <td>October 10<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">CSCW</a><br />
-        <a target="_blank" class="label label-blue" href="">R1</a>
-        <a target="_blank" class="label label-blue" href="">R2</a>
-        <a target="_blank" class="label label-blue" href="">R3</a></span>
+        <a target="_blank" class="label label-blue" href="https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/IEEEComputer1994.pdf">R1</a>
+        <a target="_blank" class="label label-blue" href="https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/groupware-and-social-dynamics.pdf">R2</a>
+        <a target="_blank" class="label label-blue" href="https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.92.2557&rep=rep1&type=pdf">R3</a></span>
         <!-- <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550131">D</a></span> -->
       </td>
       <td>October 12<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Experimental design I</a><br />
-        <a target="_blank" class="label label-blue" href="">R1</a>
-        <a target="_blank" class="label label-blue" href="">R2</a>
-        <a target="_blank" class="label label-red" href="">H</a></span>
+        <a target="_blank" class="label label-blue" href="https://www-sciencedirect-com.ezproxy.library.wisc.edu/science/article/pii/B9780128053904000029">R1</a>
+        <a target="_blank" class="label label-blue" href="https://link-springer-com.ezproxy.library.wisc.edu/book/10.1007/978-1-4939-0378-8">R2</a>
+        <a target="_blank" class="label label-red" href="https://drive.google.com/file/d/1LYEVNv_dSwJquPMv4HMzYKfBKq-DTKsw/view">H</a></span>
       </td>
       <!-- <td>February 28<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/192620/assignments/747907">Assignment 1.A</a></span>
@@ -138,15 +138,17 @@ Links to lecture slides, readings, assignments will be posted in the table below
     <tr>
       <td>October 17<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Crowdsourcing</a><br />
-        <a target="_blank" class="label label-blue" href="">R1</a>
-        <a target="_blank" class="label label-blue" href="">R2</a>
-        <a target="_blank" class="label label-blue" href="">R3</a></span>
+        <a target="_blank" class="label label-blue" href="http://www.cs.umd.edu/~bederson/images/pubs_pdfs/p1403-quinn.pdf">R1</a>
+        <a target="_blank" class="label label-blue" href="http://people.csail.mit.edu/msbernst/papers/soylent-uist2010.pdf">R2</a>
+        <a target="_blank" class="label label-blue" href="https://hci.stanford.edu/publications/2013/CrowdWork/futureofcrowdwork-cscw2013.pdf">R3</a></span>
+        <a target="_blank" class="label label-green" href="https://dl.acm.org/doi/10.1145/1378704.1378719">O1</a>
+        <a target="_blank" class="label label-green" href="https://dl.acm.org/doi/10.1145/2212877.2212883">O2</a>
         <!-- <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550130">D</a></span> -->
       </td>
       <td>October 19<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Experimental design II</a><br />
-        <a target="_blank" class="label label-blue" href="">R</a>
-        <a target="_blank" class="label label-red" href="">H</a>
+        <a target="_blank" class="label label-blue" href="https://www-sciencedirect-com.ezproxy.library.wisc.edu/science/article/pii/B9780128053904000030">R</a>
+        <a target="_blank" class="label label-red" href="https://drive.google.com/file/d/1Pa4FSBeTfiogrdDhiNtfZn3-bHHLylSv/view">H</a>
         </span>
       </td>
       <!-- <td>March 06<br />
