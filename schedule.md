@@ -99,6 +99,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
     <tr>
       <td>October 3<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="https://drive.google.com/file/d/1TZLasOphsMkeh7B4UlPcBbBWGqCR9tGT/view?usp=sharing">CMC</a></span><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="https://docs.google.com/document/d/1q-kjzZ22gqW0uCseAzsZK8coxDM5ZObZIqounIEBITI/edit?usp=sharing">Notes</a></span><br />
         <a target="_blank" class="label label-blue" href="https://drive.google.com/file/d/1Z_tfrkKD4xlN_9pXMX9aeBG6JsXPCgUd/view">R1</a>
         <a target="_blank" class="label label-blue" href="https://drive.google.com/file/d/1-kPGGhyaJddPUF9DyHgG7VjMTubzeuh8/view">R2</a>
         <a target="_blank" class="label label-blue" href="https://dgergle.soc.northwestern.edu//resources/BosOlsonGergleOlsonWright_RichMediaTrust_CHI02.pdf">R3</a>
