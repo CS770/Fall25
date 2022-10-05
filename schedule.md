@@ -108,6 +108,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
       </td>
       <td>October 5<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="https://drive.google.com/file/d/1Tp5bVE3p851BNRvP3HJR3kPHup328Ewq/view?usp=sharing">Qualitative analysis</a></span><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="https://mediaspace.wisc.edu/media/Yuhang+Zhao-Noland+168-10+05+22-12A58A09/1_v92ymsks">Recording</a></span><br />
         <a target="_blank" class="label label-blue" href="https://www-sciencedirect-com.ezproxy.library.wisc.edu/science/article/pii/B978012805390400011X">R1</a>
         <a target="_blank" class="label label-blue" href="https://www.sagepub.com/sites/default/files/upm-binaries/24614_01_Saldana_Ch_01.pdf">R2</a>
         <a target="_blank" class="label label-red" href="https://drive.google.com/file/d/1TI2NIM4_KJl_T3M2iKh7AE5zE65e9fKn/view">H</a>
