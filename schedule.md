@@ -107,7 +107,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <!-- <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550132">D</a> -->
       </td>
       <td>October 5<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Qualitative analysis</a></span><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="https://drive.google.com/file/d/1Tp5bVE3p851BNRvP3HJR3kPHup328Ewq/view?usp=sharing">Qualitative analysis</a></span><br />
         <a target="_blank" class="label label-blue" href="https://www-sciencedirect-com.ezproxy.library.wisc.edu/science/article/pii/B978012805390400011X">R1</a>
         <a target="_blank" class="label label-blue" href="https://www.sagepub.com/sites/default/files/upm-binaries/24614_01_Saldana_Ch_01.pdf">R2</a>
         <a target="_blank" class="label label-red" href="https://drive.google.com/file/d/1TI2NIM4_KJl_T3M2iKh7AE5zE65e9fKn/view">H</a>
