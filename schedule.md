@@ -112,7 +112,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <a target="_blank" class="label label-blue" href="https://www-sciencedirect-com.ezproxy.library.wisc.edu/science/article/pii/B978012805390400011X">R1</a>
         <a target="_blank" class="label label-blue" href="https://www.sagepub.com/sites/default/files/upm-binaries/24614_01_Saldana_Ch_01.pdf">R2</a>
         <a target="_blank" class="label label-red" href="https://drive.google.com/file/d/1TI2NIM4_KJl_T3M2iKh7AE5zE65e9fKn/view">H</a>
-        <a target="_blank" class="label label-red" href="[https://drive.google.com/file/d/1ImQW06qRVUC8Tr4-XCH_7epnXwT6Goe5/view](https://docs.google.com/spreadsheets/d/13gDpDfRV_s5avUwD22rvMDJ1Q_m-wLu--WdsyOYDixw/edit?usp=sharing)">D</a>
+        <a target="_blank" class="label label-red" href="https://docs.google.com/spreadsheets/d/13gDpDfRV_s5avUwD22rvMDJ1Q_m-wLu--WdsyOYDixw/edit?usp=sharing">D</a>
       </td>
       <!-- <td></td> -->
       <td>October 7<br />
