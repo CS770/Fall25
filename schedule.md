@@ -122,6 +122,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
     <tr>
       <td>October 10<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="https://drive.google.com/file/d/1UG1CJ_LiQ73LJ8UF_ACUUC-eFzQxbDOH/view?usp=sharing">CSCW</a><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="https://mediaspace.wisc.edu/media/Yuhang+Zhao-Noland+168-10+10+22-12A56A52/1_d9jf8bjw">Recording</a></span><br />
         <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="https://docs.google.com/document/d/1NdL_LiXhs5BZNaL-LV-xxqHSJSstXRdBfYqrt1cs9xY/edit?usp=sharing">Notes</a></span><br />
         <a target="_blank" class="label label-blue" href="https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/IEEEComputer1994.pdf">R1</a>
         <a target="_blank" class="label label-blue" href="https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/groupware-and-social-dynamics.pdf">R2</a>
