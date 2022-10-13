@@ -131,6 +131,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
       </td>
       <td>October 12<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="https://drive.google.com/file/d/1USxElkx_hhUe6gdk0NTQVucnHTc1v26a/view?usp=sharing">Experimental design I</a><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="https://mediaspace.wisc.edu/media/Yuhang+Zhao-Noland+168-10+12+22-12A59A47/1_x492zf9b">Recording</a></span><br />
         <a target="_blank" class="label label-blue" href="https://www-sciencedirect-com.ezproxy.library.wisc.edu/science/article/pii/B9780128053904000029">R1</a>
         <a target="_blank" class="label label-blue" href="https://link-springer-com.ezproxy.library.wisc.edu/book/10.1007/978-1-4939-0378-8">R2</a>
         <a target="_blank" class="label label-red" href="https://drive.google.com/file/d/1LYEVNv_dSwJquPMv4HMzYKfBKq-DTKsw/view">H</a></span>
