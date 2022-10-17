@@ -143,7 +143,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
     </tr>
     <tr>
       <td>October 17<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Crowdsourcing</a><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="https://drive.google.com/file/d/1UpgFgn2OPJIbXFmxOZSCzuC3BagAspL-/view?usp=sharing">Crowdsourcing</a><br />
         <a target="_blank" class="label label-blue" href="http://www.cs.umd.edu/~bederson/images/pubs_pdfs/p1403-quinn.pdf">R1</a>
         <a target="_blank" class="label label-blue" href="http://people.csail.mit.edu/msbernst/papers/soylent-uist2010.pdf">R2</a>
         <a target="_blank" class="label label-blue" href="https://hci.stanford.edu/publications/2013/CrowdWork/futureofcrowdwork-cscw2013.pdf">R3</a></span>
