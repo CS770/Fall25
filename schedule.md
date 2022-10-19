@@ -155,6 +155,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
       </td>
       <td>October 19<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="https://drive.google.com/file/d/1VJSbt-uBwts0dNO1Zrv8fP4RV88F_Vga/view?usp=sharing">Experimental design II</a><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="https://drive.google.com/file/d/1gbc8nzoVKBljaByV-FwdppNbVFvKvGCT/view?usp=sharing">Recording</a></span><br />
         <a target="_blank" class="label label-blue" href="https://www-sciencedirect-com.ezproxy.library.wisc.edu/science/article/pii/B9780128053904000030">R</a>
         <a target="_blank" class="label label-red" href="https://drive.google.com/file/d/1Pa4FSBeTfiogrdDhiNtfZn3-bHHLylSv/view">H</a>
         </span>
