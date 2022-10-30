@@ -174,17 +174,17 @@ Links to lecture slides, readings, assignments will be posted in the table below
     <tr>
       <td>October 31<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w08-seminar-crowdsourcing.pdf">Accessibility</a><br />
-         <a target="_blank" class="label label-blue" href="">R1</a>
-        <a target="_blank" class="label label-blue" href="">R2</a>
-        <a target="_blank" class="label label-blue" href="">R3</a>
-        <a target="_blank" class="label label-green" href="">O1</a>
-        <a target="_blank" class="label label-green" href="">O2</a></span>
+         <a target="_blank" class="label label-blue" href="http://faculty.washington.edu/jtenenbg/publications/blindPersonInteraction-cacm2009.pdf">R1</a>
+        <a target="_blank" class="label label-blue" href="https://ieeexplore.ieee.org/document/8160542">R2</a>
+        <a target="_blank" class="label label-blue" href="https://dl.acm.org/doi/pdf/10.1145/1866029.1866080?download=true">R3</a>
+        <a target="_blank" class="label label-green" href="https://dl.acm.org/doi/pdf/10.1145/2700648.2809853?download=true">O1</a>
+        <a target="_blank" class="label label-green" href="https://dl.acm.org/doi/pdf/10.1145/2700648.2809865?download=true">O2</a></span>
         <!-- <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550128">D</a></span> -->
       </td>
       <td>November 2<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Measurement I</a><br />
-        <a target="_blank" class="label label-blue" href="">R</a>
-        <a target="_blank" class="label label-red" href="">H</a>
+        <a target="_blank" class="label label-blue" href="https://ebookcentral.proquest.com/lib/wisc/reader.action?docID=1204543&ppg=82">R</a>
+        <a target="_blank" class="label label-red" href="https://drive.google.com/file/d/1ARzWojbYVQ-ZFs49bkwn2VjcQE1hU3h0/view">H</a>
         </span>
       </td>
       <!-- <td></td> -->
@@ -196,16 +196,16 @@ Links to lecture slides, readings, assignments will be posted in the table below
       <td>November 7<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Educational Technology</a><br />
          <a target="_blank" class="btn btn-purple" href="">Online Studies</a><br />
-        <a target="_blank" class="label label-blue" href="">R1</a>
-        <a target="_blank" class="label label-blue" href="">R2</a>
-        <a target="_blank" class="label label-blue" href="">R3</a></span>
+        <a target="_blank" class="label label-blue" href="http://www.uqac.ca/deptdse/3ped124/LCDPAPER/LEARNIN.PDF">R1</a>
+        <a target="_blank" class="label label-blue" href="https://dl-acm-org.ezproxy.library.wisc.edu/doi/10.1145/3025453.3025857">R2</a>
+        <a target="_blank" class="label label-blue" href="https://dl.acm.org/doi/abs/10.1145/3373625.3417029?casa_token=fLvvdqoNthQAAAAA:BIKfimh93PHRf3SYFY31AAF1vJba49aElF6U2l5ASM0Ar8g6tKlTHMDV0p0vZeN_ymIDBWKUejgoV9Q">R3</a></span>
         <!-- <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550123">D</a><br /> -->
         <!-- <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a> -->
           <!-- <a target="_blank" class="btn btn-green" href="https://us-lti.bbcollab.com/recording/537c39f937014977a085d6d66cb6e4d5">Recording</a></span> -->
       </td>
       <td>November 9<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Measurement II</a><br />
-        <a target="_blank" class="label label-blue" href="">R</a></span>
+        <a target="_blank" class="label label-blue" href="https://ebookcentral.proquest.com/lib/wisc/reader.action?docID=1204543&ppg=140">R</a></span>
         <!-- <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a> -->
           <!-- <a target="_blank" class="btn btn-green" href="https://us-lti.bbcollab.com/recording/dd3c756ad25949f2b8d5496bf09a80db">Recording</a>
         </span> -->
@@ -218,18 +218,18 @@ Links to lecture slides, readings, assignments will be posted in the table below
     <tr>
       <td>November 14<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Mobile/Tangible (Guest)</a><br />
-        <a target="_blank" class="label label-blue" href="">R1</a>
-        <a target="_blank" class="label label-blue" href="">R2</a>
-        <a target="_blank" class="label label-blue" href="">R3</a></span>
+        <a target="_blank" class="label label-blue" href="https://ebookcentral.proquest.com/lib/wisc/reader.action?docID=1204543&ppg=140">R1</a>
+        <a target="_blank" class="label label-blue" href="https://ecl.cc.gatech.edu/sites/default/files/publications/J.8-Abowd-HumanComputerInteraction-2000.pdf">R2</a>
+        <a target="_blank" class="label label-blue" href="http://alumni.media.mit.edu/~ullmer/papers/tangible-bits.pdf">R3</a></span>
         <!-- <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550127">D</a><br /> -->
         <!-- <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a> -->
           <!-- <a target="_blank" class="btn btn-green" href="https://us-lti.bbcollab.com/recording/009a1bdc45664d04a37eb6380aea6e18">Recording</a></span> -->
       </td>
       <td>November 16<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Measurement III</a><br />
-        <a target="_blank" class="label label-blue" href="">R1</a>
-        <a target="_blank" class="label label-blue" href="">R2</a>
-        <a target="_blank" class="label label-red" href="">H</a></span>
+        <a target="_blank" class="label label-blue" href="https://ebookcentral.proquest.com/lib/wisc/reader.action?docID=1204543&ppg=82">R1</a>
+        <a target="_blank" class="label label-blue" href="https://www-sciencedirect-com.ezproxy.library.wisc.edu/science/article/pii/B9780128053904000133">R2</a>
+        <a target="_blank" class="label label-red" href="https://drive.google.com/file/d/1SIQS-Heyxe8VP3pf4lMIg6q5nZOvi0Lv/view">H</a></span>
         <!-- <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a> -->
           <!-- <a target="_blank" class="btn btn-green" href="https://us-lti.bbcollab.com/recording/90f3133f098644008bf16dfacad031fc">Recording</a></span> -->
       </td>
