@@ -173,7 +173,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
     </tr>
     <tr>
       <td>October 31<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w08-seminar-crowdsourcing.pdf">Accessibility</a><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="https://drive.google.com/file/d/1Wmm5mqseZjAd72U4WP2K4lovXoNsh9oR/view?usp=sharing">Accessibility</a><br />
          <a target="_blank" class="label label-blue" href="http://faculty.washington.edu/jtenenbg/publications/blindPersonInteraction-cacm2009.pdf">R1</a>
         <a target="_blank" class="label label-blue" href="https://ieeexplore.ieee.org/document/8160542">R2</a>
         <a target="_blank" class="label label-blue" href="https://dl.acm.org/doi/pdf/10.1145/1866029.1866080?download=true">R3</a>
