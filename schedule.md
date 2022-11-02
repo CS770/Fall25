@@ -184,7 +184,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <!-- <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550128">D</a></span> -->
       </td>
       <td>November 2<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Measurement I</a><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="https://drive.google.com/file/d/1Wsz9MDJzyAL-QGIvpxPYGJA0uhYtoHtg/view?usp=sharing">Measurement I</a><br />
         <a target="_blank" class="label label-blue" href="https://ebookcentral.proquest.com/lib/wisc/reader.action?docID=1204543&ppg=82">R</a>
         <a target="_blank" class="label label-red" href="https://drive.google.com/file/d/1ARzWojbYVQ-ZFs49bkwn2VjcQE1hU3h0/view">H</a>
         </span>
