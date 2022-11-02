@@ -175,6 +175,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
       <td>October 31<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="https://drive.google.com/file/d/1Wmm5mqseZjAd72U4WP2K4lovXoNsh9oR/view?usp=sharing">Accessibility</a><br />
         <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="https://mediaspace.wisc.edu/media/Yuhang+Zhao-Noland+168-10+31+22-12A54A55/1_pex5sdmf">Recording</a></span><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="https://docs.google.com/document/d/18D8PReAEsTmvmXaTwXBCCxGXTVnaRXSuQnEFPLWx5HY/edit?usp=sharing">Notes</a></span><br />
          <a target="_blank" class="label label-blue" href="http://faculty.washington.edu/jtenenbg/publications/blindPersonInteraction-cacm2009.pdf">R1</a>
         <a target="_blank" class="label label-blue" href="https://ieeexplore.ieee.org/document/8160542">R2</a>
         <a target="_blank" class="label label-blue" href="https://dl.acm.org/doi/pdf/10.1145/1866029.1866080?download=true">R3</a>
