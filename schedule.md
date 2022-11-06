@@ -201,6 +201,8 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <a target="_blank" class="label label-blue" href="http://www.uqac.ca/deptdse/3ped124/LCDPAPER/LEARNIN.PDF">R1</a>
         <a target="_blank" class="label label-blue" href="https://dl-acm-org.ezproxy.library.wisc.edu/doi/10.1145/3025453.3025857">R2</a>
         <a target="_blank" class="label label-blue" href="https://dl.acm.org/doi/abs/10.1145/3373625.3417029?casa_token=fLvvdqoNthQAAAAA:BIKfimh93PHRf3SYFY31AAF1vJba49aElF6U2l5ASM0Ar8g6tKlTHMDV0p0vZeN_ymIDBWKUejgoV9Q">R3</a></span>
+        <a target="_blank" class="label label-green" href="http://www.designbasedresearch.org/reppubs/DBRC2003.pdf">O1</a>
+        <a target="_blank" class="label label-green" href="https://canvas.wisc.edu/courses/192620/files/10973282/download?download_frd=1">O2</a></span>
         <!-- <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550123">D</a><br /> -->
         <!-- <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a> -->
           <!-- <a target="_blank" class="btn btn-green" href="https://us-lti.bbcollab.com/recording/537c39f937014977a085d6d66cb6e4d5">Recording</a></span> -->
