@@ -185,14 +185,12 @@ Links to lecture slides, readings, assignments will be posted in the table below
       </td>
       <td>November 2<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="https://drive.google.com/file/d/1Wsz9MDJzyAL-QGIvpxPYGJA0uhYtoHtg/view?usp=sharing">Measurement I</a><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="https://mediaspace.wisc.edu/media/Yuhang+Zhao-Noland+168-11+02+22-12A58A50/1_qed0xnaq">Recording</a></span><br />
         <a target="_blank" class="label label-blue" href="https://ebookcentral.proquest.com/lib/wisc/reader.action?docID=1204543&ppg=82">R</a>
         <a target="_blank" class="label label-red" href="https://drive.google.com/file/d/1ARzWojbYVQ-ZFs49bkwn2VjcQE1hU3h0/view">H</a>
         </span>
       </td>
       <!-- <td></td> -->
-      <td>November 11<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Method</a></span>
-      </td>
     </tr>
     <tr>
       <td>November 7<br />
@@ -218,6 +216,9 @@ Links to lecture slides, readings, assignments will be posted in the table below
       <!-- <td>November 11<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/192620/assignments/747928">Method</a></span>
       </td> -->
+      <td>November 11<br />
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Method</a></span>
+      </td>
     </tr>
     <tr>
       <td>November 14<br />
