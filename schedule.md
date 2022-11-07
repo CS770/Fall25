@@ -185,14 +185,13 @@ Links to lecture slides, readings, assignments will be posted in the table below
       </td>
       <td>November 2<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="https://drive.google.com/file/d/1Wsz9MDJzyAL-QGIvpxPYGJA0uhYtoHtg/view?usp=sharing">Measurement I</a><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="https://mediaspace.wisc.edu/media/Yuhang+Zhao-Noland+168-11+02+22-12A58A50/1_qed0xnaq">Recording</a></span><br />
         <a target="_blank" class="label label-blue" href="https://ebookcentral.proquest.com/lib/wisc/reader.action?docID=1204543&ppg=82">R</a>
         <a target="_blank" class="label label-red" href="https://drive.google.com/file/d/1ARzWojbYVQ-ZFs49bkwn2VjcQE1hU3h0/view">H</a>
         </span>
       </td>
       <!-- <td></td> -->
-      <td>November 11<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Method</a></span>
-      </td>
+      
     </tr>
     <tr>
       <td>November 7<br />
@@ -202,7 +201,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <a target="_blank" class="label label-blue" href="https://dl-acm-org.ezproxy.library.wisc.edu/doi/10.1145/3025453.3025857">R2</a>
         <a target="_blank" class="label label-blue" href="https://dl.acm.org/doi/abs/10.1145/3373625.3417029?casa_token=fLvvdqoNthQAAAAA:BIKfimh93PHRf3SYFY31AAF1vJba49aElF6U2l5ASM0Ar8g6tKlTHMDV0p0vZeN_ymIDBWKUejgoV9Q">R3</a></span>
         <a target="_blank" class="label label-green" href="http://www.designbasedresearch.org/reppubs/DBRC2003.pdf">O1</a>
-        <a target="_blank" class="label label-green" href="https://canvas.wisc.edu/courses/192620/files/10973282/download?download_frd=1">O2</a></span>
+        <a target="_blank" class="label label-green" href="https://www.science.org/doi/10.1126/scirobotics.aat5999">O2</a></span>
         <!-- <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550123">D</a><br /> -->
         <!-- <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a> -->
           <!-- <a target="_blank" class="btn btn-green" href="https://us-lti.bbcollab.com/recording/537c39f937014977a085d6d66cb6e4d5">Recording</a></span> -->
@@ -214,7 +213,9 @@ Links to lecture slides, readings, assignments will be posted in the table below
           <!-- <a target="_blank" class="btn btn-green" href="https://us-lti.bbcollab.com/recording/dd3c756ad25949f2b8d5496bf09a80db">Recording</a>
         </span> -->
       </td>
-      <td></td>
+      <td>November 11<br />
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Method</a></span>
+      </td>
       <!-- <td>November 11<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/192620/assignments/747928">Method</a></span>
       </td> -->
