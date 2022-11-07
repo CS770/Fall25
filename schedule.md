@@ -190,7 +190,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <a target="_blank" class="label label-red" href="https://drive.google.com/file/d/1ARzWojbYVQ-ZFs49bkwn2VjcQE1hU3h0/view">H</a>
         </span>
       </td>
-      <!-- <td></td> -->
+      <td></td>
     </tr>
     <tr>
       <td>November 7<br />
