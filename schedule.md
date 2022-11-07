@@ -216,9 +216,6 @@ Links to lecture slides, readings, assignments will be posted in the table below
       <!-- <td>November 11<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/192620/assignments/747928">Method</a></span>
       </td> -->
-      <td>November 11<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Method</a></span>
-      </td>
     </tr>
     <tr>
       <td>November 14<br />
