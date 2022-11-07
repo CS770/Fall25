@@ -194,8 +194,8 @@ Links to lecture slides, readings, assignments will be posted in the table below
     </tr>
     <tr>
       <td>November 7<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Educational Technology</a><br />
-         <a target="_blank" class="btn btn-purple" href="">Online Studies</a><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="https://drive.google.com/file/d/1YDBdfhfH4nboUMq31s0GZne49xO0yMPC/view?usp=sharing">Educational Technology</a><br />
+         <a target="_blank" class="btn btn-purple" href="https://drive.google.com/file/d/1YDyGJDxDQSoC0eYdiW9e_ERAdjGOCVDN/view?usp=sharing">Online Studies</a><br />
         <a target="_blank" class="label label-blue" href="http://www.uqac.ca/deptdse/3ped124/LCDPAPER/LEARNIN.PDF">R1</a>
         <a target="_blank" class="label label-blue" href="https://dl-acm-org.ezproxy.library.wisc.edu/doi/10.1145/3025453.3025857">R2</a>
         <a target="_blank" class="label label-blue" href="https://dl.acm.org/doi/abs/10.1145/3373625.3417029?casa_token=fLvvdqoNthQAAAAA:BIKfimh93PHRf3SYFY31AAF1vJba49aElF6U2l5ASM0Ar8g6tKlTHMDV0p0vZeN_ymIDBWKUejgoV9Q">R3</a></span>
