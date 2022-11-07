@@ -212,7 +212,9 @@ Links to lecture slides, readings, assignments will be posted in the table below
           <!-- <a target="_blank" class="btn btn-green" href="https://us-lti.bbcollab.com/recording/dd3c756ad25949f2b8d5496bf09a80db">Recording</a>
         </span> -->
       </td>
-      <td></td>
+      <td>November 11<br />
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Method</a></span>
+      </td>
       <!-- <td>November 11<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/192620/assignments/747928">Method</a></span>
       </td> -->
