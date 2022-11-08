@@ -196,6 +196,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
       <td>November 7<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="https://drive.google.com/file/d/1YDBdfhfH4nboUMq31s0GZne49xO0yMPC/view?usp=sharing">Educational Technology</a><br />
         <a target="_blank" class="btn btn-purple" href="https://drive.google.com/file/d/1YDyGJDxDQSoC0eYdiW9e_ERAdjGOCVDN/view?usp=sharing">Online Studies</a><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="https://mediaspace.wisc.edu/media/Yuhang+Zhao-Noland+168-11+07+22-13A02A05/1_x9czirx7">Recording</a></span><br />
         <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="https://docs.google.com/document/d/1J9xDVlod--e0o2YANN725E4Ra4ik9bzYrOkmiw0STbA/edit?usp=sharing">Notes</a></span><br />
         <a target="_blank" class="label label-blue" href="http://www.uqac.ca/deptdse/3ped124/LCDPAPER/LEARNIN.PDF">R1</a>
         <a target="_blank" class="label label-blue" href="https://dl-acm-org.ezproxy.library.wisc.edu/doi/10.1145/3025453.3025857">R2</a>
