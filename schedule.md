@@ -208,7 +208,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
           <!-- <a target="_blank" class="btn btn-green" href="https://us-lti.bbcollab.com/recording/537c39f937014977a085d6d66cb6e4d5">Recording</a></span> -->
       </td>
       <td>November 9<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Measurement II</a><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="https://drive.google.com/file/d/1YcZGQ8SDZ2cnG66Dda_O9miKORoneQpu/view?usp=sharing">Measurement II</a><br />
         <a target="_blank" class="label label-blue" href="https://ebookcentral.proquest.com/lib/wisc/reader.action?docID=1204543&ppg=140">R</a></span>
         <!-- <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a> -->
           <!-- <a target="_blank" class="btn btn-green" href="https://us-lti.bbcollab.com/recording/dd3c756ad25949f2b8d5496bf09a80db">Recording</a>
