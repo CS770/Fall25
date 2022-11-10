@@ -209,7 +209,10 @@ Links to lecture slides, readings, assignments will be posted in the table below
       </td>
       <td>November 9<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="https://drive.google.com/file/d/1YcZGQ8SDZ2cnG66Dda_O9miKORoneQpu/view?usp=sharing">Measurement II</a><br />
-        <a target="_blank" class="label label-blue" href="https://ebookcentral.proquest.com/lib/wisc/reader.action?docID=1204543&ppg=140">R</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="https://mediaspace.wisc.edu/media/Yuhang+Zhao-Noland+168-11+09+22-12A59A52/1_oiul846s">Recording</a></span><br />
+        <a target="_blank" class="label label-blue" href="https://ebookcentral.proquest.com/lib/wisc/reader.action?docID=1204543&ppg=140">R</a>
+        <a target="_blank" class="label label-green" href="https://drive.google.com/file/d/1YdnaKthN79IuGduOBGOJ-s96yKfV27Qp/view?usp=sharing">CSV</a>
+        <a target="_blank" class="label label-green" href="https://drive.google.com/file/d/1YejJ8dqnEY-i4QGF7poT1yAnqsqqhYHJ/view?usp=sharing">Code</a></span>
         <!-- <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a> -->
           <!-- <a target="_blank" class="btn btn-green" href="https://us-lti.bbcollab.com/recording/dd3c756ad25949f2b8d5496bf09a80db">Recording</a>
         </span> -->
