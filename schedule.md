@@ -227,6 +227,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
     <tr>
       <td>November 14<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Mobile/Tangible (Guest)</a><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="https://mediaspace.wisc.edu/media/Yuhang+Zhao-Noland+168-11+14+22-13A00A35/1_czo0876b">Recording</a></span><br />
         <a target="_blank" class="label label-blue" href="https://ebookcentral.proquest.com/lib/wisc/reader.action?docID=1204543&ppg=140">R1</a>
         <a target="_blank" class="label label-blue" href="https://ecl.cc.gatech.edu/sites/default/files/publications/J.8-Abowd-HumanComputerInteraction-2000.pdf">R2</a>
         <a target="_blank" class="label label-blue" href="http://alumni.media.mit.edu/~ullmer/papers/tangible-bits.pdf">R3</a></span>
