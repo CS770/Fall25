@@ -236,7 +236,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
           <!-- <a target="_blank" class="btn btn-green" href="https://us-lti.bbcollab.com/recording/009a1bdc45664d04a37eb6380aea6e18">Recording</a></span> -->
       </td>
       <td>November 16<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Measurement III</a><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="https://drive.google.com/file/d/1Yfy_qN8Bvez1h-L96hg_c89rjEAPkuDF/view?usp=sharing">Measurement III</a><br />
         <a target="_blank" class="label label-blue" href="https://ebookcentral.proquest.com/lib/wisc/reader.action?docID=1204543&ppg=82">R1</a>
         <a target="_blank" class="label label-blue" href="https://www-sciencedirect-com.ezproxy.library.wisc.edu/science/article/pii/B9780128053904000133">R2</a>
         <a target="_blank" class="label label-red" href="https://drive.google.com/file/d/1SIQS-Heyxe8VP3pf4lMIg6q5nZOvi0Lv/view">H</a></span>
