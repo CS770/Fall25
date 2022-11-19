@@ -252,16 +252,18 @@ Links to lecture slides, readings, assignments will be posted in the table below
     <tr>
       <td>November 21<br />
       <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Privacy (Guest)</a><br />
-        <a target="_blank" class="label label-blue" href="">R</a> <em>(Chapters 1 & 3)</em></span>
+        <a target="_blank" class="label label-blue" href="https://heinonline-org.ezproxy.library.wisc.edu/HOL/Page?handle=hein.journals/washlr79&div=16&id=&page=&collection=journals">R1</a> <em>(Chapters 1 & 3)</em></span>
+        <a target="_blank" class="label label-blue" href="https://dl.acm.org/doi/pdf/10.1145/3290605.3300428?casa_token=YBc_inuwPTgAAAAA:IswkpR_sXCRkGQg8D0CkJ7a_AI25gDzxJwwFAiJ0bzyDg4iMjxcrJXl9VqDcwYXfu3RI5w_UB13ee-k">R2</a>
+        <a target="_blank" class="label label-green" href="https://dl.acm.org/doi/abs/10.1145/3359161">O</a>
         <!-- <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550127">D</a><br /> -->
         <!-- <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a> -->
           <!-- <a target="_blank" class="btn btn-green" href="https://us-lti.bbcollab.com/recording/ec3d727dce964fa1b09b93260d6b4999">Recording</a></span> -->
       </td>
       <td>November 23<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Statistics I</a><br />
-        <a target="_blank" class="label label-blue" href="">R</a> <em>(Pages 71-80)</em>
-        <a target="_blank" class="label label-green" href="">O</a>
-        <a target="_blank" class="label label-red" href="">H</a></span>
+        <a target="_blank" class="label label-blue" href="https://www-sciencedirect-com.ezproxy.library.wisc.edu/science/article/pii/B9780128053904000042">R</a> <em>(Pages 71-80)</em>
+        <a target="_blank" class="label label-green" href="https://ebookcentral.proquest.com/lib/wisc/reader.action?docID=1110719&ppg=210">O</a>
+        <a target="_blank" class="label label-red" href="https://docs.google.com/document/d/1fn00va6Flyz1q_eUv-dv2MVfzsse4KKQToeXeyLlqP0/edit">H</a></span>
         <!-- <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a> -->
           <!-- <a target="_blank" class="btn btn-green" href="https://us-lti.bbcollab.com/recording/f030a126cc6d49a1accd1df3ecdf584b">Recording</a></span> -->
       </td>
@@ -271,18 +273,19 @@ Links to lecture slides, readings, assignments will be posted in the table below
     <tr>
       <td>November 28<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Physiological Computing</a><br />
-        <a target="_blank" class="label label-blue" href="">R1</a>
-        <a target="_blank" class="label label-blue" href="">R2</a>
-        <a target="_blank" class="label label-blue" href="">R3</a>
-        <a target="_blank" class="label label-green" href="">O</a></span>
+        <a target="_blank" class="label label-blue" href="http://physiologicalcomputing.org/wp-content/uploads/2015/03/fundamentals1.pdf">R1</a>
+        <a target="_blank" class="label label-blue" href="http://usd-apps.usd.edu/coglab/schieber/hedonomics/pdf/Jeon_Ch9.pdf">R2</a>
+        <a target="_blank" class="label label-blue" href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/Brain-Computer-Interfacing-for-Intelligent-Systems.pdf">R3</a>
+        <a target="_blank" class="label label-green" href="https://pages.cs.wisc.edu/~bilge/pubs/2012/CHI12-Szafir.pdf">O</a></span>
         <!-- <a target="_blank" class="label label-green" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550122">D</a><br />
         <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a> -->
           <!-- <a target="_blank" class="btn btn-green" href="https://us-lti.bbcollab.com/recording/e8be0327965a4aa9be7a4fae9f2c16d3">Recording</a></span> -->
       </td>
       <td>November 30<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Statistics II</a><br />
-        <a target="_blank" class="label label-blue" href="">R</a> <em>(Pages 80-104)</em>
-        <a target="_blank" class="label label-green" href="">O</a></span>
+        <a target="_blank" class="label label-blue" href="https://www-sciencedirect-com.ezproxy.library.wisc.edu/science/article/pii/B9780128053904000042">R</a> <em>(Pages 80-104)</em>
+        <a target="_blank" class="label label-green" href="https://ebookcentral.proquest.com/lib/wisc/reader.action?docID=1110719&ppg=210">O1</a></span>
+        <a target="_blank" class="label label-green" href="https://community.jmp.com/t5/JMP-Add-Ins/Full-Factorial-Repeated-Measures-ANOVA-Add-In/ta-p/23904">O2</a></span>
         <!-- <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a> -->
           <!-- <a target="_blank" class="btn btn-green" href="https://us-lti.bbcollab.com/recording/95d5a197cfb740439c3a76711d6f726d">Recording</a></span> -->
       </td>
@@ -290,21 +293,23 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/192620/assignments/747909">Assignment 2.B</a></span>
       </td> -->
       <td>December 2<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Data collection</a></span></td>
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/321750/assignments/1746099">Data collection</a></span></td>
     </tr>
     <tr>
       <td>December 5<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Augmented/Virtual Reality</a><br />
-        <a target="_blank" class="label label-blue" href="">R1</a>
-        <a target="_blank" class="label label-blue" href="">R2</a></span>
+        <a target="_blank" class="label label-blue" href="https://drive.google.com/file/d/1xSe_yzpDo02SyDrNAs_0Prx_CVO60JGv/view">R1</a>
+        <a target="_blank" class="label label-blue" href="https://ieeexplore-ieee-org.ezproxy.library.wisc.edu/stamp/stamp.jsp?tp=&arnumber=4637362&tag=1">R2</a></span>
+        <a target="_blank" class="label label-green" href="https://chrisharrison.net/projects/omnitouch/omnitouch.pdf">O</a></span>
         <!-- <a target="_blank" class="label label-green" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550125">D</a><br />
         <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a> -->
           <!-- <a target="_blank" class="btn btn-green" href="https://us-lti.bbcollab.com/recording/d2e3137cc77c4899998a865eb316f63c">Recording</a></span> -->
       </td>
       <td>December 7<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Statistics III</a><br />
-        <a target="_blank" class="label label-blue" href="">R</a> <em>(Pages 80-104)</em>
-        <a target="_blank" class="label label-green" href="">O</a></span>
+        <a target="_blank" class="label label-blue" href="https://www-sciencedirect-com.ezproxy.library.wisc.edu/science/article/pii/B9780128053904000042">R</a> <em>(Pages 80-104)</em>
+        <a target="_blank" class="label label-green" href="https://ebookcentral.proquest.com/lib/wisc/reader.action?docID=1110719&ppg=210">O1</a></span>
+        <a target="_blank" class="label label-green" href="https://community.jmp.com/t5/JMP-Add-Ins/Full-Factorial-Repeated-Measures-ANOVA-Add-In/ta-p/23904">O2</a></span>
         <!-- <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a> -->
           <!-- <a target="_blank" class="btn btn-green" href="https://us-lti.bbcollab.com/recording/fc46d041731643cd883c2f802543ffaf">Recording</a></span> -->
       </td>
