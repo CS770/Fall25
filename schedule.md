@@ -251,7 +251,8 @@ Links to lecture slides, readings, assignments will be posted in the table below
     </tr>
     <tr>
       <td>November 21<br />
-      <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Privacy (Guest)</a><br />
+      <span class="fs-3"><a target="_blank" class="btn btn-purple" href="https://drive.google.com/file/d/1R3CVgxcAhDT4pJgLQ7eBG8frVn2q98Fd/view?usp=sharing">Privacy (Guest)</a><br />
+      <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="https://mediaspace.wisc.edu/media/Yuhang+Zhao-Noland+168-11+21+22-13A01A53/1_6kngryze">Recording</a></span><br />
         <a target="_blank" class="label label-blue" href="https://heinonline-org.ezproxy.library.wisc.edu/HOL/Page?handle=hein.journals/washlr79&div=16&id=&page=&collection=journals">R1</a> <em>(Chapters 1 & 3)</em></span>
         <a target="_blank" class="label label-blue" href="https://dl.acm.org/doi/pdf/10.1145/3290605.3300428?casa_token=YBc_inuwPTgAAAAA:IswkpR_sXCRkGQg8D0CkJ7a_AI25gDzxJwwFAiJ0bzyDg4iMjxcrJXl9VqDcwYXfu3RI5w_UB13ee-k">R2</a>
         <a target="_blank" class="label label-green" href="https://dl.acm.org/doi/abs/10.1145/3359161">O</a>
