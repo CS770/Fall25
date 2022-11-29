@@ -276,6 +276,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
     <tr>
       <td>November 28<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="https://drive.google.com/file/d/1ZGe7JoP5a8EeiRi9sUOpzkBLqSbfl4Gt/view?usp=sharing">Physiological Computing</a><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="https://mediaspace.wisc.edu/media/Yuhang+Zhao-Noland+168-11+28+22-13A00A07/1_fz3og4l7">Recording</a></span><br />
         <a target="_blank" class="label label-blue" href="http://physiologicalcomputing.org/wp-content/uploads/2015/03/fundamentals1.pdf">R1</a>
         <a target="_blank" class="label label-blue" href="http://usd-apps.usd.edu/coglab/schieber/hedonomics/pdf/Jeon_Ch9.pdf">R2</a>
         <a target="_blank" class="label label-blue" href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/Brain-Computer-Interfacing-for-Intelligent-Systems.pdf">R3</a>
