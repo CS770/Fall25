@@ -287,7 +287,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
           <!-- <a target="_blank" class="btn btn-green" href="https://us-lti.bbcollab.com/recording/e8be0327965a4aa9be7a4fae9f2c16d3">Recording</a></span> -->
       </td>
       <td>November 30<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Statistics II</a><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="https://drive.google.com/file/d/1ZNDtCu0rZOvfTKF1TVQRw3X3FcoU5r_d/view?usp=sharing">Statistics II</a><br />
         <a target="_blank" class="label label-blue" href="https://www-sciencedirect-com.ezproxy.library.wisc.edu/science/article/pii/B9780128053904000042">R</a> <em>(Pages 80-104)</em>
         <a target="_blank" class="label label-green" href="https://ebookcentral.proquest.com/lib/wisc/reader.action?docID=1110719&ppg=210">O1</a>
         <a target="_blank" class="label label-green" href="https://community.jmp.com/t5/JMP-Add-Ins/Full-Factorial-Repeated-Measures-ANOVA-Add-In/ta-p/23904">O2</a></span>
