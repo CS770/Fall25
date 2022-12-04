@@ -288,9 +288,11 @@ Links to lecture slides, readings, assignments will be posted in the table below
       </td>
       <td>November 30<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="https://drive.google.com/file/d/1ZNDtCu0rZOvfTKF1TVQRw3X3FcoU5r_d/view?usp=sharing">Statistics II</a><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="https://mediaspace.wisc.edu/media/Yuhang+Zhao-Noland+168-11+30+22-12A58A15/1_oudlg3ev">Recording</a></span><br />
         <a target="_blank" class="label label-blue" href="https://www-sciencedirect-com.ezproxy.library.wisc.edu/science/article/pii/B9780128053904000042">R</a> <em>(Pages 80-104)</em>
         <a target="_blank" class="label label-green" href="https://ebookcentral.proquest.com/lib/wisc/reader.action?docID=1110719&ppg=210">O1</a>
-        <a target="_blank" class="label label-green" href="https://community.jmp.com/t5/JMP-Add-Ins/Full-Factorial-Repeated-Measures-ANOVA-Add-In/ta-p/23904">O2</a></span>
+        <a target="_blank" class="label label-green" href="https://community.jmp.com/t5/JMP-Add-Ins/Full-Factorial-Repeated-Measures-ANOVA-Add-In/ta-p/23904">O2</a>
+        <a target="_blank" class="label label-green" href="https://drive.google.com/file/d/1Zt_VJb7YtMzCn-1gYqVRhzEUEg_WHyev/view?usp=sharing">R File</a></span>
         <!-- <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a> -->
           <!-- <a target="_blank" class="btn btn-green" href="https://us-lti.bbcollab.com/recording/95d5a197cfb740439c3a76711d6f726d">Recording</a></span> -->
       </td>
