@@ -304,7 +304,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
     </tr>
     <tr>
       <td>December 5<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Augmented/Virtual Reality</a><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="https://drive.google.com/file/d/1_4mMxhZvhYfcmIO3ByL1Ehbd1YNZxl_1/view?usp=sharing">Augmented/Virtual Reality</a><br />
         <a target="_blank" class="label label-blue" href="https://drive.google.com/file/d/1xSe_yzpDo02SyDrNAs_0Prx_CVO60JGv/view">R1</a>
         <a target="_blank" class="label label-blue" href="https://ieeexplore-ieee-org.ezproxy.library.wisc.edu/stamp/stamp.jsp?tp=&arnumber=4637362&tag=1">R2</a>
         <a target="_blank" class="label label-green" href="https://chrisharrison.net/projects/omnitouch/omnitouch.pdf">O</a></span>
