@@ -305,6 +305,8 @@ Links to lecture slides, readings, assignments will be posted in the table below
     <tr>
       <td>December 5<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="https://drive.google.com/file/d/1_4mMxhZvhYfcmIO3ByL1Ehbd1YNZxl_1/view?usp=sharing">Augmented/Virtual Reality</a><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="https://mediaspace.wisc.edu/media/Yuhang+Zhao-Noland+168-12+05+22-12A58A31/1_5wyi6qx2">Recording</a></span><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="https://docs.google.com/document/d/1-enPtMSmYHGyCK6wiDDVyJ8RHSdXFTcJ2gJxSNOCFdY/edit?usp=sharing">Notes</a></span><br />
         <a target="_blank" class="label label-blue" href="https://drive.google.com/file/d/1xSe_yzpDo02SyDrNAs_0Prx_CVO60JGv/view">R1</a>
         <a target="_blank" class="label label-blue" href="https://ieeexplore-ieee-org.ezproxy.library.wisc.edu/stamp/stamp.jsp?tp=&arnumber=4637362&tag=1">R2</a>
         <a target="_blank" class="label label-green" href="https://chrisharrison.net/projects/omnitouch/omnitouch.pdf">O</a></span>
