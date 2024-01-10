@@ -18,13 +18,13 @@ The course consists of three modules: (1) **seminar**, which reviews major resea
 <table>
 <tr>
 	<td>
-		<span class="fs-3"><a class="btn btn-blue" href="https://canvas.wisc.edu/courses/321750">Course Canvas Page</a></span>
+		<span class="fs-3"><a class="btn btn-blue" href="https://canvas.wisc.edu/courses/397450">Course Canvas Page</a></span>
 	</td>
 	<td>
-		<span class="fs-3"><a class="btn btn-blue" href="https://piazza.com/wisc/fall2022/cspsychedpsych770/home">Course Piazza Page</a></span>
+		<span class="fs-3"><a class="btn btn-blue" href="https://piazza.com/wisc/spring2024/sp24compsci770001">Course Piazza Page</a></span>
 	</td>
 	<td>
-		<span class="fs-3"><a class="btn btn-blue" href="https://wisconsin-madison.alma.exlibrisgroup.com/view/action/uresolver.do?operation=resolveService&package_service_id=14650690810002122&institutionId=2122&customerId=2120">Course Textbook</a></span>
+		<span class="fs-3"><a class="btn btn-blue" href="https://drive.google.com/drive/folders/1_wAIHIrYEFtYw18-8273JCvnYlpUYScW?usp=sharing">Course Textbook</a></span>
 	</td>
 </tr>
 </table>
@@ -35,7 +35,7 @@ The course consists of three modules: (1) **seminar**, which reviews major resea
 		<a class="label" href="">Course location</a>
 	</td>
 	<td>
-		MW 1:00-2:15 pm, NOLAND 168
+		MW 11:00 am-12:15 pm, VILAS 4028
 	</td>
 </tr>
 <tr>
@@ -43,7 +43,7 @@ The course consists of three modules: (1) **seminar**, which reviews major resea
 		<a class="label" href="">Instructor office hours</a>
 	</td>
 	<td>
-		Tuesday 4:00-5:00 pm, <a href="https://uwmadison.zoom.us/j/6154400037?pwd=aWl4RGhwWjFoLyswVnZNdWRUb0JJdz09">Zoom</a>
+		Wednesday 4:00-5:00 pm, CS 6393
 	</td>
 </tr>
 <tr>
@@ -51,7 +51,7 @@ The course consists of three modules: (1) **seminar**, which reviews major resea
 		<a class="label" href="">TA office hours</a>
 	</td>
 	<td>
-		Monday 4:00-5:00 pm, Thu 4:00-5:00 pm, <a href="https://uwmadison.zoom.us/j/99360889315?pwd=MS9FQ2NmckR5Q0h1dTVEZnhqdVNJUT09">Zoom</a> 
+		TBD, <a href="">Zoom</a> 
 	</td>
 </tr>
 </table>
