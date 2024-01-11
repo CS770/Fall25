@@ -24,7 +24,7 @@ The course consists of three modules: (1) **seminar**, which reviews major resea
 		<span class="fs-3"><a class="btn btn-blue" href="https://piazza.com/wisc/spring2024/sp24compsci770001">Course Piazza Page</a></span>
 	</td>
 	<td>
-		<span class="fs-3"><a class="btn btn-blue" href="https://drive.google.com/drive/folders/1_wAIHIrYEFtYw18-8273JCvnYlpUYScW?usp=sharing">Course Textbook</a></span>
+		<span class="fs-3"><a class="btn btn-blue" href="https://www-sciencedirect-com.ezproxy.library.wisc.edu/book/9780128053904/research-methods-in-human-computer-interaction">Course Textbook</a></span>
 	</td>
 </tr>
 </table>
@@ -51,7 +51,7 @@ The course consists of three modules: (1) **seminar**, which reviews major resea
 		<a class="label" href="">TA office hours</a>
 	</td>
 	<td>
-		TBD, <a href="">Zoom</a> 
+		Tuesday/Thursday 4:00-5:00 pm, <a href="https://uwmadison.zoom.us/j/96018953831?pwd=cFozMHJzQmpaNGVXMm9MQkpjY1NsZz09">Zoom</a> 
 	</td>
 </tr>
 </table>
