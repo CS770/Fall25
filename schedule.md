@@ -23,7 +23,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
     <tr>
       <td> Jan 22<br /><em>No class</em></td>
       <td>Jan 24<br />
-        <span class="fs-3"><a target="lectures/w01-course-introduction.pdf" class="btn btn-purple" href="">Course Introduction</a></span><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w01-course-introduction.pdf">Course Introduction</a></span><br />
         <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
       </td>
       <td></td>
