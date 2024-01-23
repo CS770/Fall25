@@ -116,7 +116,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
       </td>
       <!-- <td></td> -->
       <td>Feb 23<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Literature survey</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Literature survey, RQ</a></span>
       </td>
     </tr>
     <tr>
