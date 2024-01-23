@@ -43,7 +43,7 @@ The course consists of three modules: (1) **seminar**, which reviews major resea
 		<a class="label" href="">Instructor office hours</a>
 	</td>
 	<td>
-		Wednesday 4:00-5:00 pm, CS 6393
+		Wednesday 2:30-3:30 pm, CS 6381
 	</td>
 </tr>
 <tr>

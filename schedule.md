@@ -23,7 +23,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
     <tr>
       <td> Jan 22<br /><em>No class</em></td>
       <td>Jan 24<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Course Introduction</a></span><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w01-course-introduction.pdf">Course Introduction</a></span><br />
         <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
       </td>
       <td></td>
@@ -116,7 +116,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
       </td>
       <!-- <td></td> -->
       <td>Feb 23<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Literature survey</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Literature survey, RQ</a></span>
       </td>
     </tr>
     <tr>
@@ -320,7 +320,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <a target="_blank" class="label label-blue" href="">R</a> <em>(Pages 80-104)</em>
         <a target="_blank" class="label label-green" href="">O1</a>
         <a target="_blank" class="label label-green" href="">O2</a>
-        <a target="_blank" class="label label-green" href="">R File</a></span></span>
+        <a target="_blank" class="label label-green" href="">R File</a></span>
         <!-- <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a> -->
           <!-- <a target="_blank" class="btn btn-green" href="https://us-lti.bbcollab.com/recording/fc46d041731643cd883c2f802543ffaf">Recording</a></span> -->
       </td>
