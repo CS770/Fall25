@@ -320,7 +320,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <a target="_blank" class="label label-blue" href="">R</a> <em>(Pages 80-104)</em>
         <a target="_blank" class="label label-green" href="">O1</a>
         <a target="_blank" class="label label-green" href="">O2</a>
-        <a target="_blank" class="label label-green" href="">R File</a></span></span>
+        <a target="_blank" class="label label-green" href="">R File</a></span>
         <!-- <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a> -->
           <!-- <a target="_blank" class="btn btn-green" href="https://us-lti.bbcollab.com/recording/fc46d041731643cd883c2f802543ffaf">Recording</a></span> -->
       </td>
