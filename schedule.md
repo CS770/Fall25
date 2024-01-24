@@ -24,7 +24,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
       <td> Jan 22<br /><em>No class</em></td>
       <td>Jan 24<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w01-course-introduction.pdf">Course Introduction</a></span><br />
-        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="https://mediaspace.wisc.edu/media/Course+Introduction/1_pztp8bc5">Recording</a></span><br />
       </td>
       <td></td>
       <!-- <td></td> -->
