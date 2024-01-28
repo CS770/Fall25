@@ -31,16 +31,16 @@ Links to lecture slides, readings, assignments will be posted in the table below
     </tr>
     <tr>
       <td>Jan 29<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">History of HCI</a></span><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w02-seminar-history.pdf">History of HCI</a></span><br />
         <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
-        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Notes</a></span><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="https://docs.google.com/document/d/1IWdiGu3hVVItb92tUwT0UIest63fq6XkulK-vRhA6O4/edit">Notes</a></span><br />
         <!-- <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Project Introduction</a></span><br /> -->
         <a target="_blank" class="label label-blue" href="https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/HCIhandbook3rd.pdf">R</a>
         <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/397450/discussion_topics/1771497">D</a>
       </td>
       <td>Jan 31<br />
         <span class="fs-3">
-          <a target="_blank" class="btn btn-purple" href="">Introduction</a><br />
+          <a target="_blank" class="btn btn-purple" href="">Methods Introduction</a><br />
           <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
           <a target="_blank" class="label label-blue" href="https://doi.org/10.1016/B978-0-12-805390-4.00001-7">R</a>
           <a target="_blank" class="label label-red" href="https://drive.google.com/file/d/10m_P9k0HJVdbApFe6ze90NycnahC1SX7/view">H</a>
@@ -362,3 +362,4 @@ Links to lecture slides, readings, assignments will be posted in the table below
     </tr>
   </tbody>
 </table>
+
