@@ -2,7 +2,7 @@
 title: Schedule
 nav_order: 2
 ---
-Links to lecture slides, readings, assignments will be posted in the table below by the time of the lecture or the release of the assignment.  <a class="label label-blue" >R</a> links to readings for that day, <a class="label label-green" >O</a> indicating an optional reading, <a class="label label-green" >V</a> indicating an optional video; and <a class="label label-red" >H</a> links to hands-on-activity handouts.
+Links to lecture slides, readings, assignments will be posted in the table below by the time of the lecture or the release of the assignment.  <a class="label label-blue" >R</a> links to readings for that day; <a class="label label-green" >O</a> indicating an optional reading; <a class="label label-green" >V</a> indicating an optional video; <a class="label label-yellow" >H</a> links to hands-on-activity handouts; and <a class="label label-red" >C</a> points to the Canvas assignment for submissions.
 
 <table>
   <thead>
@@ -32,11 +32,11 @@ Links to lecture slides, readings, assignments will be posted in the table below
     <tr>
       <td>Jan 29<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w02-seminar-history.pdf">History of HCI</a></span><br />
-        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="https://mediaspace.wisc.edu/media/SeminarA+History+of+HCI/1_m77168pz">Recording</a></span><br />
         <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="https://docs.google.com/document/d/1IWdiGu3hVVItb92tUwT0UIest63fq6XkulK-vRhA6O4/edit">Notes</a></span><br />
         <!-- <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Project Introduction</a></span><br /> -->
         <a target="_blank" class="label label-blue" href="https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/HCIhandbook3rd.pdf">R</a>
-        <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/397450/discussion_topics/1771497">D</a>
+        <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/397450/discussion_topics/1771497">C</a>
       </td>
       <td>Jan 31<br />
         <span class="fs-3">
@@ -44,6 +44,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
           <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
           <a target="_blank" class="label label-blue" href="https://doi.org/10.1016/B978-0-12-805390-4.00001-7">R</a>
           <a target="_blank" class="label label-red" href="https://drive.google.com/file/d/10m_P9k0HJVdbApFe6ze90NycnahC1SX7/view">H</a>
+          <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/397450/assignments/2239584">C</a>
         </span>
       </td>
       <!-- <td></td> -->
@@ -55,14 +56,15 @@ Links to lecture slides, readings, assignments will be posted in the table below
           <a target="_blank" class="btn btn-purple" href="">Research Theories</a><br />
           <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
           <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Notes</a></span><br />
-          <a target="_blank" class="label label-blue" href="">R</a>
-        <!-- <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550134">D</a> -->
+          <a target="_blank" class="label label-blue" href="https://drive.google.com/file/d/1L3WTK7fI508dZr-kDn6O7IhYpybxvVAg/view">R</a>
+          <a target="_blank" class="label label-green" href="https://www.sciencedirect.com/science/article/pii/S1045926X16300088">O</a>
+          <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/397450/discussion_topics/1779252">C</a>
         </span>
       </td>
       <td>Feb 7<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Choosing Methods</a></span><br />
         <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
-        <a target="_blank" class="label label-blue" href="">R1</a>
+        <a target="_blank" class="label label-blue" href="">R1</a>utlu
         <a target="_blank" class="label label-blue" href="">R2</a>
         <a target="_blank" class="label label-green" href="">O1</a>
         <a target="_blank" class="label label-red" href="">H</a>
