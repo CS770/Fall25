@@ -41,7 +41,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
       <td>Jan 31<br />
         <span class="fs-3">
           <a target="_blank" class="btn btn-purple" href="lectures/w02-methods-intro.pdf">Methods Introduction</a><br />
-          <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
+          <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="https://mediaspace.wisc.edu/media/Bilge+Mutlu-Vilas+4028-01+31+24-11A04A44/1_juzqr5ht">Recording</a></span><br />
           <a target="_blank" class="label label-blue" href="https://doi.org/10.1016/B978-0-12-805390-4.00001-7">R</a>
           <a target="_blank" class="label label-yellow" href="https://docs.google.com/document/d/1NX78WkJpFQNBqQg73-zNPgWI0R7aVxl1/edit?usp=sharing&ouid=112970004581124194652&rtpof=true&sd=true">H</a>
           <a target="_blank" class="label label-red" href="https://canvas.wisc.edu/courses/397450/assignments/2239584">C</a>
