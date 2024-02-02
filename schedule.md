@@ -64,7 +64,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
       <td>Feb 7<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Choosing Methods</a></span><br />
         <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
-        <a target="_blank" class="label label-blue" href="">R1</a>utlu
+        <a target="_blank" class="label label-blue" href="">R1</a>
         <a target="_blank" class="label label-blue" href="">R2</a>
         <a target="_blank" class="label label-green" href="">O1</a>
         <a target="_blank" class="label label-yellow" href="">H</a>
@@ -73,8 +73,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/192620/assignments/747906">Assignment 0</a></span>
       </td> -->
       <td>Feb 9<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Topic selection</a></span><br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Project Examples</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/w02-project-intro.pdf">Topic selection</a></span>
       </td>
     </tr>
     <tr>
