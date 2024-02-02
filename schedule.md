@@ -158,10 +158,9 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <a target="_blank" class="label label-yellow" href="">H</a>
         </span>
       </td>
-      <!-- <td>March 06<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/192620/assignments/747947">Assignment 1.B</a></span>
-      </td> -->
-      <td></td>
+      <td>Mar 8<br />
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Method</a></span>
+      </td>
     </tr>
     <tr>
       <td>Mar 11<br />
@@ -182,9 +181,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <a target="_blank" class="label label-yellow" href="">H</a>
         </span>
       </td>
-      <td>Mar 15<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Method</a></span>
-      </td>
+      <td></td>
     </tr>
     <tr>
       <td>Mar 18<br />
@@ -268,8 +265,8 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <!-- <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a> -->
           <!-- <a target="_blank" class="btn btn-green" href="https://us-lti.bbcollab.com/recording/f030a126cc6d49a1accd1df3ecdf584b">Recording</a></span> -->
       </td>
-      <!-- <td></td> -->
-      <td></td>
+      <td>Apr 12<br />
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Data collection</a></span></td>
     </tr>
     <tr>
       <td>Apr 15<br />
@@ -297,8 +294,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
       <!-- <td>April 17<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/192620/assignments/747909">Assignment 2.B</a></span>
       </td> -->
-      <td>Apr 19<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Data collection</a></span></td>
+      <td></td>
     </tr>
     <tr>
       <td>Apr 22<br />
