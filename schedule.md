@@ -47,8 +47,9 @@ Links to lecture slides, readings, assignments will be posted in the table below
           <a target="_blank" class="label label-red" href="https://canvas.wisc.edu/courses/397450/assignments/2239584">C</a>
         </span>
       </td>
-      <!-- <td></td> -->
-      <td></td>
+      <td>Feb 2<br />
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/w02-project-intro.pdf">Topic selection</a></span>
+      </td>
     </tr>
     <tr>
       <td>Feb 5<br />
@@ -72,9 +73,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
       <!-- <td>February 07<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/192620/assignments/747906">Assignment 0</a></span>
       </td> -->
-      <td>Feb 9<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/w02-project-intro.pdf">Topic selection</a></span>
-      </td>
+      <td></td>
     </tr>
     <tr>
       <td>Feb 12<br />
@@ -94,8 +93,9 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <a target="_blank" class="label label-green" href="">V</a>
         <a target="_blank" class="label label-yellow" href="">H</a>
       </td>
-      <!-- <td></td> -->
-      <td></td>
+      <td>Feb 16<br />
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Literature survey, RQ</a></span>
+      </td>
     </tr>
     <tr>
       <td>Feb 19<br />
@@ -115,10 +115,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <a target="_blank" class="label label-yellow" href="">H</a>
         <a target="_blank" class="label label-red" href="">C</a>
       </td>
-      <!-- <td></td> -->
-      <td>Feb 23<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Literature survey, RQ</a></span>
-      </td>
+      <td></td>
     </tr>
     <tr>
       <td>Feb 26<br />
