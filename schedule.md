@@ -2,7 +2,7 @@
 title: Schedule
 nav_order: 2
 ---
-Links to lecture slides, readings, assignments will be posted in the table below by the time of the lecture or the release of the assignment.  <a class="label label-blue" >R</a> links to readings for that day, <a class="label label-green" >O</a> indicating an optional reading, <a class="label label-green" >V</a> indicating an optional video; and <a class="label label-red" >H</a> links to hands-on-activity handouts.
+Links to lecture slides, readings, assignments will be posted in the table below by the time of the lecture or the release of the assignment.  <a class="label label-blue" >R</a> links to readings for that day; <a class="label label-green" >O</a> indicating an optional reading; <a class="label label-green" >V</a> indicating an optional video; <a class="label label-yellow" >H</a> links to hands-on-activity handouts; and <a class="label label-red" >C</a> points to the Canvas assignment for submissions.
 
 <table>
   <thead>
@@ -32,22 +32,24 @@ Links to lecture slides, readings, assignments will be posted in the table below
     <tr>
       <td>Jan 29<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w02-seminar-history.pdf">History of HCI</a></span><br />
-        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="https://mediaspace.wisc.edu/media/SeminarA+History+of+HCI/1_m77168pz">Recording</a></span><br />
         <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="https://docs.google.com/document/d/1IWdiGu3hVVItb92tUwT0UIest63fq6XkulK-vRhA6O4/edit">Notes</a></span><br />
         <!-- <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Project Introduction</a></span><br /> -->
         <a target="_blank" class="label label-blue" href="https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/HCIhandbook3rd.pdf">R</a>
-        <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/397450/discussion_topics/1771497">D</a>
+        <a target="_blank" class="label label-red" href="https://canvas.wisc.edu/courses/397450/discussion_topics/1771497">C</a>
       </td>
       <td>Jan 31<br />
         <span class="fs-3">
-          <a target="_blank" class="btn btn-purple" href="">Methods Introduction</a><br />
-          <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
+          <a target="_blank" class="btn btn-purple" href="lectures/w02-methods-intro.pdf">Methods Introduction</a><br />
+          <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="https://mediaspace.wisc.edu/media/Bilge+Mutlu-Vilas+4028-01+31+24-11A04A44/1_juzqr5ht">Recording</a></span><br />
           <a target="_blank" class="label label-blue" href="https://doi.org/10.1016/B978-0-12-805390-4.00001-7">R</a>
-          <a target="_blank" class="label label-red" href="https://drive.google.com/file/d/10m_P9k0HJVdbApFe6ze90NycnahC1SX7/view">H</a>
+          <a target="_blank" class="label label-yellow" href="https://docs.google.com/document/d/1NX78WkJpFQNBqQg73-zNPgWI0R7aVxl1/edit?usp=sharing&ouid=112970004581124194652&rtpof=true&sd=true">H</a>
+          <a target="_blank" class="label label-red" href="https://canvas.wisc.edu/courses/397450/assignments/2239584">C</a>
         </span>
       </td>
-      <!-- <td></td> -->
-      <td></td>
+      <td>Feb 2<br />
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/w02-project-intro.pdf">Topic selection</a></span>
+      </td>
     </tr>
     <tr>
       <td>Feb 5<br />
@@ -55,8 +57,9 @@ Links to lecture slides, readings, assignments will be posted in the table below
           <a target="_blank" class="btn btn-purple" href="">Research Theories</a><br />
           <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
           <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Notes</a></span><br />
-          <a target="_blank" class="label label-blue" href="">R</a>
-        <!-- <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550134">D</a> -->
+          <a target="_blank" class="label label-blue" href="https://drive.google.com/file/d/1L3WTK7fI508dZr-kDn6O7IhYpybxvVAg/view">R</a>
+          <a target="_blank" class="label label-green" href="https://www.sciencedirect.com/science/article/pii/S1045926X16300088">O</a>
+          <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/397450/discussion_topics/1779252">C</a>
         </span>
       </td>
       <td>Feb 7<br />
@@ -65,15 +68,12 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <a target="_blank" class="label label-blue" href="">R1</a>
         <a target="_blank" class="label label-blue" href="">R2</a>
         <a target="_blank" class="label label-green" href="">O1</a>
-        <a target="_blank" class="label label-red" href="">H</a>
+        <a target="_blank" class="label label-yellow" href="">H</a>
       </td>
       <!-- <td>February 07<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/192620/assignments/747906">Assignment 0</a></span>
       </td> -->
-      <td>Feb 9<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Topic selection</a></span><br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Project Examples</a></span>
-      </td>
+      <td></td>
     </tr>
     <tr>
       <td>Feb 12<br />
@@ -91,10 +91,11 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <a target="_blank" class="label label-blue" href="">R</a>
         <a target="_blank" class="label label-green" href="">O</a>
         <a target="_blank" class="label label-green" href="">V</a>
-        <a target="_blank" class="label label-red" href="">H</a>
+        <a target="_blank" class="label label-yellow" href="">H</a>
       </td>
-      <!-- <td></td> -->
-      <td></td>
+      <td>Feb 16<br />
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Literature survey, RQ</a></span>
+      </td>
     </tr>
     <tr>
       <td>Feb 19<br />
@@ -111,13 +112,10 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="h">Recording</a></span><br />
         <a target="_blank" class="label label-blue" href="">R1</a>
         <a target="_blank" class="label label-blue" href="">R2</a>
-        <a target="_blank" class="label label-red" href="">H</a>
-        <a target="_blank" class="label label-red" href="">D</a>
+        <a target="_blank" class="label label-yellow" href="">H</a>
+        <a target="_blank" class="label label-red" href="">C</a>
       </td>
-      <!-- <td></td> -->
-      <td>Feb 23<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Literature survey, RQ</a></span>
-      </td>
+      <td></td>
     </tr>
     <tr>
       <td>Feb 26<br />
@@ -134,7 +132,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
         <a target="_blank" class="label label-blue" href="">R1</a>
         <a target="_blank" class="label label-blue" href="">R2</a>
-        <a target="_blank" class="label label-red" href="">H</a></span>
+        <a target="_blank" class="label label-yellow" href="">H</a></span>
       </td>
       <!-- <td>February 28<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/192620/assignments/747907">Assignment 1.A</a></span>
@@ -157,13 +155,12 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Experimental design II</a><br />
         <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
         <a target="_blank" class="label label-blue" href="">R</a>
-        <a target="_blank" class="label label-red" href="">H</a>
+        <a target="_blank" class="label label-yellow" href="">H</a>
         </span>
       </td>
-      <!-- <td>March 06<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/192620/assignments/747947">Assignment 1.B</a></span>
-      </td> -->
-      <td></td>
+      <td>Mar 8<br />
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Method</a></span>
+      </td>
     </tr>
     <tr>
       <td>Mar 11<br />
@@ -181,12 +178,10 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Measurement I</a><br />
         <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
         <a target="_blank" class="label label-blue" href="">R</a>
-        <a target="_blank" class="label label-red" href="">H</a>
+        <a target="_blank" class="label label-yellow" href="">H</a>
         </span>
       </td>
-      <td>Mar 15<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Method</a></span>
-      </td>
+      <td></td>
     </tr>
     <tr>
       <td>Mar 18<br />
@@ -240,7 +235,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
         <a target="_blank" class="label label-blue" href="">R1</a>
         <a target="_blank" class="label label-blue" href="">R2</a>
-        <a target="_blank" class="label label-red" href="">H</a></span>
+        <a target="_blank" class="label label-yellow" href="">H</a></span>
         <!-- <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a> -->
           <!-- <a target="_blank" class="btn btn-green" href="https://us-lti.bbcollab.com/recording/90f3133f098644008bf16dfacad031fc">Recording</a></span> -->
       </td>
@@ -266,12 +261,12 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <a target="_blank" class="label label-blue" href="">R</a> <em>(Pages 71-80)</em>
         <a target="_blank" class="label label-green" href="">O</a>
           <a target="_blank" class="label label-green" href="">R File</a>
-        <a target="_blank" class="label label-red" href="">H</a></span>
+        <a target="_blank" class="label label-yellow" href="">H</a></span>
         <!-- <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a> -->
           <!-- <a target="_blank" class="btn btn-green" href="https://us-lti.bbcollab.com/recording/f030a126cc6d49a1accd1df3ecdf584b">Recording</a></span> -->
       </td>
-      <!-- <td></td> -->
-      <td></td>
+      <td>Apr 12<br />
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Data collection</a></span></td>
     </tr>
     <tr>
       <td>Apr 15<br />
@@ -299,8 +294,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
       <!-- <td>April 17<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/192620/assignments/747909">Assignment 2.B</a></span>
       </td> -->
-      <td>Apr 19<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Data collection</a></span></td>
+      <td></td>
     </tr>
     <tr>
       <td>Apr 22<br />
@@ -342,7 +336,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
       </td>
       <td>May 1<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Final Presentation</a><br /><a target="_blank" class="label label-blue" href="">R</a>
-        <a target="_blank" class="label label-red" href="">H</a></span>
+        <a target="_blank" class="label label-yellow" href="">H</a></span>
         <!-- <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a> -->
           <!-- <a target="_blank" class="btn btn-green" href="https://us-lti.bbcollab.com/recording/bbe401da7caf4deb9f1f0c2e765823e6">Recording</a></span> -->
       </td>
