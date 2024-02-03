@@ -48,7 +48,8 @@ Links to lecture slides, readings, assignments will be posted in the table below
         </span>
       </td>
       <td>Feb 2<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/w02-project-intro.pdf">Topic selection</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/w02-project-intro.pdf">Topic selection</a></span><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="https://mediaspace.wisc.edu/media/ProjectA+Introduction/1_c904bc8f">Recording</a></span>
       </td>
     </tr>
     <tr>
@@ -94,7 +95,8 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <a target="_blank" class="label label-yellow" href="">H</a>
       </td>
       <td>Feb 16<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Literature survey, RQ</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Literature survey, RQ</a></span><br />
+        <a target="_blank" class="label label-red" href="https://canvas.wisc.edu/courses/397450/assignments/2241842">C</a>
       </td>
     </tr>
     <tr>
