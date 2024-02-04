@@ -55,7 +55,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
     <tr>
       <td>Feb 5<br />
         <span class="fs-3">
-          <a target="_blank" class="btn btn-purple" href="">Research Theories</a><br />
+          <a target="_blank" class="btn btn-purple" href="lectures/w03-seminar-frameworks.pdf">Research Theories</a><br />
           <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
           <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Notes</a></span><br />
           <a target="_blank" class="label label-blue" href="https://drive.google.com/file/d/1L3WTK7fI508dZr-kDn6O7IhYpybxvVAg/view">R</a>
@@ -66,9 +66,8 @@ Links to lecture slides, readings, assignments will be posted in the table below
       <td>Feb 7<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Choosing Methods</a></span><br />
         <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
-        <a target="_blank" class="label label-blue" href="">R1</a>
-        <a target="_blank" class="label label-blue" href="">R2</a>
-        <a target="_blank" class="label label-green" href="">O1</a>
+        <a target="_blank" class="label label-blue" href="https://drive.google.com/file/d/1-bxZwbhy0nG3Tgxt1-01Dy7eqagjwqqC/view">R1</a>
+        <a target="_blank" class="label label-blue" href="https://www.jstor.org/stable/20159361">R2</a>
         <a target="_blank" class="label label-yellow" href="">H</a>
       </td>
       <!-- <td>February 07<br />
