@@ -33,8 +33,6 @@ Links to lecture slides, readings, assignments will be posted in the table below
       <td>Jan 29<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w02-seminar-history.pdf">History of HCI</a></span><br />
         <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="https://mediaspace.wisc.edu/media/SeminarA+History+of+HCI/1_m77168pz">Recording</a></span><br />
-        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="https://docs.google.com/document/d/1IWdiGu3hVVItb92tUwT0UIest63fq6XkulK-vRhA6O4/edit">Notes</a></span><br />
-        <!-- <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Project Introduction</a></span><br /> -->
         <a target="_blank" class="label label-blue" href="https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/HCIhandbook3rd.pdf">R</a>
         <a target="_blank" class="label label-red" href="https://canvas.wisc.edu/courses/397450/discussion_topics/1771497">C</a>
       </td>
@@ -55,9 +53,8 @@ Links to lecture slides, readings, assignments will be posted in the table below
     <tr>
       <td>Feb 5<br />
         <span class="fs-3">
-          <a target="_blank" class="btn btn-purple" href="">Research Theories</a><br />
-          <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
-          <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Notes</a></span><br />
+          <a target="_blank" class="btn btn-purple" href="lectures/w03-seminar-frameworks.pdf">Research Theories</a><br />
+          <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="https://mediaspace.wisc.edu/media/SeminarA+HCI+Theory/1_t8zzl7bp">Recording</a></span><br />
           <a target="_blank" class="label label-blue" href="https://drive.google.com/file/d/1L3WTK7fI508dZr-kDn6O7IhYpybxvVAg/view">R</a>
           <a target="_blank" class="label label-green" href="https://www.sciencedirect.com/science/article/pii/S1045926X16300088">O</a>
           <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/397450/discussion_topics/1779252">C</a>
@@ -66,10 +63,10 @@ Links to lecture slides, readings, assignments will be posted in the table below
       <td>Feb 7<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Choosing Methods</a></span><br />
         <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
-        <a target="_blank" class="label label-blue" href="">R1</a>
-        <a target="_blank" class="label label-blue" href="">R2</a>
-        <a target="_blank" class="label label-green" href="">O1</a>
-        <a target="_blank" class="label label-yellow" href="">H</a>
+        <a target="_blank" class="label label-blue" href="https://drive.google.com/file/d/1-bxZwbhy0nG3Tgxt1-01Dy7eqagjwqqC/view">R1</a>
+        <a target="_blank" class="label label-blue" href="https://www.jstor.org/stable/20159361">R2</a>
+        <a target="_blank" class="label label-yellow" href="https://docs.google.com/document/d/1D4iyDpSBcG_2grrpdc3aN4qVtygTWyOD/edit?usp=sharing&ouid=112970004581124194652&rtpof=true&sd=true">H</a>
+        <a target="_blank" class="label label-red" href="https://canvas.wisc.edu/courses/397450/assignments/2243903">C</a>
       </td>
       <!-- <td>February 07<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/192620/assignments/747906">Assignment 0</a></span>
@@ -80,18 +77,16 @@ Links to lecture slides, readings, assignments will be posted in the table below
       <td>Feb 12<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Artificial Agents</a></span><br />
         <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
-          <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Notes</a></span><br />
-        <a target="_blank" class="label label-blue" href="">R1</a>
-        <a target="_blank" class="label label-blue" href="">R2</a>
-        <a target="_blank" class="label label-blue" href="">R3</a>
-        <!-- <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550133">D</a> -->
+        <a target="_blank" class="label label-blue" href="https://www.annualreviews.org/doi/pdf/10.1146/annurev-psych-010416-043958">R1</a>
+        <a target="_blank" class="label label-blue" href="https://www.cell.com/iscience/pdf/S2589-0042(20)31162-7.pdf">R2</a>
+        <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/397450/discussion_topics/1785719">D</a>
       </td>
       <td>Feb 14<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Ethnography</a></span><br />
         <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
-        <a target="_blank" class="label label-blue" href="">R</a>
-        <a target="_blank" class="label label-green" href="">O</a>
-        <a target="_blank" class="label label-green" href="">V</a>
+        <a target="_blank" class="label label-blue" href="https://www-sciencedirect-com.ezproxy.library.wisc.edu/science/article/pii/B9780128053904000091">R</a>
+        <a target="_blank" class="label label-green" href="https://doi.org/10.1046/j.1365-2648.2003.02514.x">O</a>
+        <a target="_blank" class="label label-green" href="https://vimeo.com/1269848">V</a>
         <a target="_blank" class="label label-yellow" href="">H</a>
       </td>
       <td>Feb 16<br />
