@@ -65,7 +65,8 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
         <a target="_blank" class="label label-blue" href="https://drive.google.com/file/d/1-bxZwbhy0nG3Tgxt1-01Dy7eqagjwqqC/view">R1</a>
         <a target="_blank" class="label label-blue" href="https://www.jstor.org/stable/20159361">R2</a>
-        <a target="_blank" class="label label-yellow" href="">H</a>
+        <a target="_blank" class="label label-yellow" href="https://docs.google.com/document/d/1D4iyDpSBcG_2grrpdc3aN4qVtygTWyOD/edit?usp=sharing&ouid=112970004581124194652&rtpof=true&sd=true">H</a>
+        <a target="_blank" class="label label-red" href="https://canvas.wisc.edu/courses/397450/assignments/2243903">C</a>
       </td>
       <!-- <td>February 07<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/192620/assignments/747906">Assignment 0</a></span>
