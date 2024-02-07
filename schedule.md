@@ -61,7 +61,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
         </span>
       </td>
       <td>Feb 7<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Choosing Methods</a></span><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w03-methods-choosing.pdf">Choosing Methods</a></span><br />
         <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
         <a target="_blank" class="label label-blue" href="https://drive.google.com/file/d/1-bxZwbhy0nG3Tgxt1-01Dy7eqagjwqqC/view">R1</a>
         <a target="_blank" class="label label-blue" href="https://www.jstor.org/stable/20159361">R2</a>
