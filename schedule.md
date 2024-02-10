@@ -75,7 +75,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
     </tr>
     <tr>
       <td>Feb 12<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Artificial Agents</a></span><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w04-seminar-agents.pdf">Artificial Agents</a></span><br />
         <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
         <a target="_blank" class="label label-blue" href="https://www.annualreviews.org/doi/pdf/10.1146/annurev-psych-010416-043958">R1</a>
         <a target="_blank" class="label label-blue" href="https://www.cell.com/iscience/pdf/S2589-0042(20)31162-7.pdf">R2</a>
