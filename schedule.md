@@ -62,7 +62,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
       </td>
       <td>Feb 7<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w03-methods-choosing.pdf">Choosing Methods</a></span><br />
-        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="https://mediaspace.wisc.edu/media/MethodsA+Methodological+Choices/1_0vye5eir">Recording</a></span><br />
         <a target="_blank" class="label label-blue" href="https://drive.google.com/file/d/1-bxZwbhy0nG3Tgxt1-01Dy7eqagjwqqC/view">R1</a>
         <a target="_blank" class="label label-blue" href="https://www.jstor.org/stable/20159361">R2</a>
         <a target="_blank" class="label label-yellow" href="https://docs.google.com/document/d/1D4iyDpSBcG_2grrpdc3aN4qVtygTWyOD/edit?usp=sharing&ouid=112970004581124194652&rtpof=true&sd=true">H</a>
@@ -76,18 +76,19 @@ Links to lecture slides, readings, assignments will be posted in the table below
     <tr>
       <td>Feb 12<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w04-seminar-agents.pdf">Artificial Agents</a></span><br />
-        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="https://mediaspace.wisc.edu/media/SeminarA+Artificial+Agents/1_70d71erp">Recording</a></span><br />
         <a target="_blank" class="label label-blue" href="https://www.annualreviews.org/doi/pdf/10.1146/annurev-psych-010416-043958">R1</a>
         <a target="_blank" class="label label-blue" href="https://www.cell.com/iscience/pdf/S2589-0042(20)31162-7.pdf">R2</a>
         <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/397450/discussion_topics/1785719">D</a>
       </td>
       <td>Feb 14<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Ethnography</a></span><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w04-methods-ethnography.pdf">Ethnography</a></span><br />
         <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
         <a target="_blank" class="label label-blue" href="https://www-sciencedirect-com.ezproxy.library.wisc.edu/science/article/pii/B9780128053904000091">R</a>
         <a target="_blank" class="label label-green" href="https://doi.org/10.1046/j.1365-2648.2003.02514.x">O</a>
         <a target="_blank" class="label label-green" href="https://vimeo.com/1269848">V</a>
-        <a target="_blank" class="label label-yellow" href="">H</a>
+        <a target="_blank" class="label label-yellow" href="https://docs.google.com/document/d/1Ge4Ro1q9Dw2rRqDQ0wfxovDTg3Vm3AHu/edit?usp=sharing&ouid=112970004581124194652&rtpof=true&sd=true">H</a>
+        <a target="_blank" class="label label-red" href="https://canvas.wisc.edu/courses/397450/assignments/2247199">C</a>
       </td>
       <td>Feb 16<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Literature survey, RQ</a></span><br />
@@ -99,9 +100,9 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">CMC</a></span><br />
         <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
         <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Notes</a></span><br />
-        <a target="_blank" class="label label-blue" href="">R1</a>
-        <a target="_blank" class="label label-blue" href="">R2</a>
-        <a target="_blank" class="label label-blue" href="">R3</a>
+        <a target="_blank" class="label label-blue" href="https://canvas.wisc.edu/courses/397450/files/37324570/download?download_frd=1">R1</a>
+        <a target="_blank" class="label label-blue" href="https://canvas.wisc.edu/courses/397450/files/37324569/download?download_frd=1">R2</a>
+        <a target="_blank" class="label label-blue" href="http://dgergle.soc.northwestern.edu/resources/BosOlsonGergleOlsonWright_RichMediaTrust_CHI02.pdf">R3</a>
         <!-- <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550132">D</a> -->
       </td>
       <td>Feb 21<br />
