@@ -79,11 +79,11 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="https://mediaspace.wisc.edu/media/SeminarA+Artificial+Agents/1_70d71erp">Recording</a></span><br />
         <a target="_blank" class="label label-blue" href="https://www.annualreviews.org/doi/pdf/10.1146/annurev-psych-010416-043958">R1</a>
         <a target="_blank" class="label label-blue" href="https://www.cell.com/iscience/pdf/S2589-0042(20)31162-7.pdf">R2</a>
-        <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/397450/discussion_topics/1785719">D</a>
+        <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/397450/discussion_topics/1785719">C</a>
       </td>
       <td>Feb 14<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w04-methods-ethnography.pdf">Ethnography</a></span><br />
-        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="https://mediaspace.wisc.edu/media/MethodsA+Ethnography/1_6ze7zf1p">Recording</a></span><br />
         <a target="_blank" class="label label-blue" href="https://www-sciencedirect-com.ezproxy.library.wisc.edu/science/article/pii/B9780128053904000091">R</a>
         <a target="_blank" class="label label-green" href="https://doi.org/10.1046/j.1365-2648.2003.02514.x">O</a>
         <a target="_blank" class="label label-green" href="https://vimeo.com/1269848">V</a>
@@ -97,13 +97,12 @@ Links to lecture slides, readings, assignments will be posted in the table below
     </tr>
     <tr>
       <td>Feb 19<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">CMC</a></span><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w05-seminar-cmc.pdf">CMC</a></span><br />
         <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
-        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Notes</a></span><br />
         <a target="_blank" class="label label-blue" href="https://canvas.wisc.edu/courses/397450/files/37324570/download?download_frd=1">R1</a>
         <a target="_blank" class="label label-blue" href="https://canvas.wisc.edu/courses/397450/files/37324569/download?download_frd=1">R2</a>
         <a target="_blank" class="label label-blue" href="http://dgergle.soc.northwestern.edu/resources/BosOlsonGergleOlsonWright_RichMediaTrust_CHI02.pdf">R3</a>
-        <!-- <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550132">D</a> -->
+        <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/397450/discussion_topics/1790206">C</a>
       </td>
       <td>Feb 21<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Qualitative analysis</a></span><br />
