@@ -131,9 +131,9 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <a target="_blank" class="label label-blue" href="">R2</a>
         <a target="_blank" class="label label-yellow" href="">H</a></span>
       </td>
-      <!-- <td>February 28<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/192620/assignments/747907">Assignment 1.A</a></span>
-      </td> -->
+      <td>February 28<br />
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/397450/assignments/2248820">Human Subjects Research Training</a></span>
+      </td>
       <td></td>
     </tr>
     <tr>
@@ -156,7 +156,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
         </span>
       </td>
       <td>Mar 8<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Method</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/397450/assignments/2248819">Method</a></span>
       </td>
     </tr>
     <tr>
