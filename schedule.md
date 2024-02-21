@@ -98,7 +98,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
     <tr>
       <td>Feb 19<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w05-seminar-cmc.pdf">CMC</a></span><br />
-        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="https://mediaspace.wisc.edu/media/SeminarA+CMC/1_854jsp4p">Recording</a></span><br />
         <a target="_blank" class="label label-blue" href="https://canvas.wisc.edu/courses/397450/files/37324570/download?download_frd=1">R1</a>
         <a target="_blank" class="label label-blue" href="https://canvas.wisc.edu/courses/397450/files/37324569/download?download_frd=1">R2</a>
         <a target="_blank" class="label label-blue" href="http://dgergle.soc.northwestern.edu/resources/BosOlsonGergleOlsonWright_RichMediaTrust_CHI02.pdf">R3</a>
