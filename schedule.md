@@ -106,7 +106,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
       </td>
       <td>Feb 21<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w05-methods-qualitative-analysis.pdf">Qualitative analysis</a></span><br />
-        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="h">Recording</a></span><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="https://mediaspace.wisc.edu/media/MethodsA+Qualitative+Data+Analysis/1_nfq3iag2">Recording</a></span><br />
         <a target="_blank" class="label label-blue" href="https://www-sciencedirect-com.ezproxy.library.wisc.edu/science/article/pii/B978012805390400011X">R1</a>
         <a target="_blank" class="label label-blue" href="https://www.sagepub.com/sites/default/files/upm-binaries/24614_01_Saldana_Ch_01.pdf">R2</a>
         <a target="_blank" class="label label-yellow" href="https://docs.google.com/document/d/1gMK6E-dGvYGPQYFsEuIYl4Bp0rnPF3-P/edit?usp=sharing&ouid=112970004581124194652&rtpof=true&sd=true">H</a>
