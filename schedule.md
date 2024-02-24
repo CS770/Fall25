@@ -138,14 +138,14 @@ Links to lecture slides, readings, assignments will be posted in the table below
     </tr>
     <tr>
       <td>Mar 4<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Crowdsourcing</a><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Human-AI Interaction</a><br />
         <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
-        <a target="_blank" class="label label-blue" href="">R1</a>
-        <a target="_blank" class="label label-blue" href="">R2</a>
-        <a target="_blank" class="label label-blue" href="">R3</a></span>
-        <a target="_blank" class="label label-green" href="">O1</a>
-        <a target="_blank" class="label label-green" href="">O2</a>
-        <!-- <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550130">D</a></span> -->
+        <a target="_blank" class="label label-blue" href="https://vbn.aau.dk/ws/portalfiles/portal/465265170/interactions2021a.pdf">R1</a>
+        <a target="_blank" class="label label-blue" href="https://people.eecs.berkeley.edu/~bjoern/papers/zamfirescu-johnny-chi2023.pdf">R2</a>
+        <a target="_blank" class="label label-blue" href="http://teevan.org/publications/papers/chi19-guidelines.pdf">R3</a></span>
+        <!--<a target="_blank" class="label label-green" href="">O1</a>
+        <a target="_blank" class="label label-green" href="">O2</a> -->
+        <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/397450/discussion_topics/1797243">C</a></span>
       </td>
       <td>Mar 6<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Experimental design II</a><br />
