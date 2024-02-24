@@ -116,7 +116,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
     </tr>
     <tr>
       <td>Feb 26<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">CSCW</a><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w06-seminar-cscw.pdf">CSCW</a><br />
         <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
         <a target="_blank" class="label label-blue" href="https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/IEEEComputer1994.pdf">R1</a>
         <a target="_blank" class="label label-blue" href="https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/groupware-and-social-dynamics.pdf">R2</a>
