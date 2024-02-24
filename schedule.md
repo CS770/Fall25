@@ -118,7 +118,6 @@ Links to lecture slides, readings, assignments will be posted in the table below
       <td>Feb 26<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">CSCW</a><br />
         <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
-        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Notes</a></span><br />
         <a target="_blank" class="label label-blue" href="https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/IEEEComputer1994.pdf">R1</a>
         <a target="_blank" class="label label-blue" href="https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/groupware-and-social-dynamics.pdf">R2</a>
         <a target="_blank" class="label label-blue" href="https://dspace.mit.edu/bitstream/handle/1721.1/2412/SWP-3428-27000158-CCSTR134.pdf?sequence=1">R3</a>
@@ -127,9 +126,10 @@ Links to lecture slides, readings, assignments will be posted in the table below
       <td>Feb 28<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Experimental design I</a><br />
         <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
-        <a target="_blank" class="label label-blue" href="">R1</a>
-        <a target="_blank" class="label label-blue" href="">R2</a>
-        <a target="_blank" class="label label-yellow" href="">H</a></span>
+        <a target="_blank" class="label label-blue" href="https://www-sciencedirect-com.ezproxy.library.wisc.edu/science/article/pii/B9780128053904000029">R1</a>
+        <a target="_blank" class="label label-blue" href="https://link-springer-com.ezproxy.library.wisc.edu/content/pdf/10.1007%2F978-1-4939-0378-8_9.pdf">R2</a>
+          <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/397450/assignments/2252154">C</a></span>
+        <!-- <a target="_blank" class="label label-yellow" href="">H</a></span> -->
       </td>
       <td>February 28<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/397450/assignments/2248820">Human Subjects Research Training</a></span>
@@ -140,7 +140,6 @@ Links to lecture slides, readings, assignments will be posted in the table below
       <td>Mar 4<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Crowdsourcing</a><br />
         <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
-        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Notes</a></span><br />
         <a target="_blank" class="label label-blue" href="">R1</a>
         <a target="_blank" class="label label-blue" href="">R2</a>
         <a target="_blank" class="label label-blue" href="">R3</a></span>
