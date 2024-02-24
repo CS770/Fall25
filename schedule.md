@@ -124,7 +124,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/397450/discussion_topics/1795613">C</a></span>
       </td>
       <td>Feb 28<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Experimental design I</a><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w06-methods-experimental-1.pdf">Experimental design I</a><br />
         <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
         <a target="_blank" class="label label-blue" href="https://www-sciencedirect-com.ezproxy.library.wisc.edu/science/article/pii/B9780128053904000029">R1</a>
         <a target="_blank" class="label label-blue" href="https://link-springer-com.ezproxy.library.wisc.edu/content/pdf/10.1007%2F978-1-4939-0378-8_9.pdf">R2</a>
