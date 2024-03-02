@@ -138,7 +138,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
     </tr>
     <tr>
       <td>Mar 4<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Human-AI Interaction</a><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w07-seminar-ai.pdf">Human-AI Interaction</a><br />
         <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
         <a target="_blank" class="label label-blue" href="https://vbn.aau.dk/ws/portalfiles/portal/465265170/interactions2021a.pdf">R1</a>
         <a target="_blank" class="label label-blue" href="https://people.eecs.berkeley.edu/~bjoern/papers/zamfirescu-johnny-chi2023.pdf">R2</a>
