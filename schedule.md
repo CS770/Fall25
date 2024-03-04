@@ -139,7 +139,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
     <tr>
       <td>Mar 4<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w07-seminar-ai.pdf">Human-AI Interaction</a><br />
-        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="https://mediaspace.wisc.edu/media/SeminarA+Human-AI+Interaction/1_jt0f95ua">Recording</a></span><br />
         <a target="_blank" class="label label-blue" href="https://vbn.aau.dk/ws/portalfiles/portal/465265170/interactions2021a.pdf">R1</a>
         <a target="_blank" class="label label-blue" href="https://people.eecs.berkeley.edu/~bjoern/papers/zamfirescu-johnny-chi2023.pdf">R2</a>
         <a target="_blank" class="label label-blue" href="http://teevan.org/publications/papers/chi19-guidelines.pdf">R3</a></span>
@@ -150,8 +150,8 @@ Links to lecture slides, readings, assignments will be posted in the table below
       <td>Mar 6<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Experimental design II</a><br />
         <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
-        <a target="_blank" class="label label-blue" href="">R</a>
-        <a target="_blank" class="label label-yellow" href="">H</a>
+        <a target="_blank" class="label label-blue" href="https://www-sciencedirect-com.ezproxy.library.wisc.edu/science/article/pii/B9780128053904000030">R</a>
+        <a target="_blank" class="label label-yellow" href="https://docs.google.com/document/d/1MHilFAdiVixp_NiXPWJqwDFNuVV0fA_n/edit?usp=sharing&ouid=112970004581124194652&rtpof=true&sd=true">H</a>
         </span>
       </td>
       <td>Mar 8<br />
@@ -162,12 +162,12 @@ Links to lecture slides, readings, assignments will be posted in the table below
       <td>Mar 11<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Accessibility</a><br />
         <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
-        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Notes</a></span><br />
-         <a target="_blank" class="label label-blue" href="">R1</a>
-        <a target="_blank" class="label label-blue" href="">R2</a>
-        <a target="_blank" class="label label-blue" href="">R3</a>
-        <a target="_blank" class="label label-green" href="">O1</a>
-        <a target="_blank" class="label label-green" href="">O2</a></span>
+         <a target="_blank" class="label label-blue" href="http://faculty.washington.edu/jtenenbg/publications/blindPersonInteraction-cacm2009.pdf">R1</a>
+        <a target="_blank" class="label label-blue" href="https://www.academia.edu/download/42191253/Moving.pdf">R2</a>
+        <a target="_blank" class="label label-blue" href="https://dl.acm.org/doi/pdf/10.1145/3356727">R3</a>
+        <a target="_blank" class="label label-green" href="https://dl.acm.org/doi/pdf/10.1145/2700648.2809865">O1</a>
+        <a target="_blank" class="label label-green" href="http://www.mmi.ifi.lmu.de/pubdb/publications/pub/funk2015usinginsitu/funk2015usinginsitu.pdf">O2</a>
+        <a target="_blank" class="label label-green" href="https://dl.acm.org/doi/pdf/10.1145/1866029.1866080">O3</a></span>
         <!-- <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550128">D</a></span> -->
       </td>
       <td>Mar 13<br />
