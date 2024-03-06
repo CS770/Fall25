@@ -148,12 +148,11 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/397450/discussion_topics/1797243">C</a></span>
       </td>
       <td>Mar 6<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w07-methods-experimental-2.pdf">Experimental design II</a><br />
-        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w07-methods-experimental-2.pdf">Experimental design II</a></span><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="https://mediaspace.wisc.edu/media/MethodsA+Step-by-Step+Experimental+Design/1_vht6kw8q">Recording</a></span><br />
         <a target="_blank" class="label label-blue" href="https://www-sciencedirect-com.ezproxy.library.wisc.edu/science/article/pii/B9780128053904000030">R</a>
         <a target="_blank" class="label label-yellow" href="https://docs.google.com/document/d/1MHilFAdiVixp_NiXPWJqwDFNuVV0fA_n/edit?usp=sharing&ouid=112970004581124194652&rtpof=true&sd=true">H</a>
         <a target="_blank" class="label label-red" href="https://canvas.wisc.edu/courses/397450/assignments/2256560">C</a>
-        </span>
       </td>
       <td>Mar 8<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/397450/assignments/2248819">Method</a></span>
@@ -161,7 +160,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
     </tr>
     <tr>
       <td>Mar 11<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w08-seminar-accessibility.pdf">Accessibility</a><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w08-seminar-accessibility.pdf">Accessibility</a></span><br />
         <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
          <a target="_blank" class="label label-blue" href="http://faculty.washington.edu/jtenenbg/publications/blindPersonInteraction-cacm2009.pdf">R1</a>
         <a target="_blank" class="label label-blue" href="https://www.academia.edu/download/42191253/Moving.pdf">R2</a>
@@ -169,15 +168,14 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <a target="_blank" class="label label-green" href="https://dl.acm.org/doi/pdf/10.1145/2700648.2809865">O1</a>
         <a target="_blank" class="label label-green" href="http://www.mmi.ifi.lmu.de/pubdb/publications/pub/funk2015usinginsitu/funk2015usinginsitu.pdf">O2</a>
         <a target="_blank" class="label label-green" href="https://dl.acm.org/doi/pdf/10.1145/1866029.1866080">O3</a>
-        <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/397450/discussion_topics/1802433">C</a></span>
+        <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/397450/discussion_topics/1802433">C</a>
       </td>
       <td>Mar 13<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w08-methods-measurement-1.pdf">Measurement I</a><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w08-methods-measurement-1.pdf">Measurement I</a></span><br />
         <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
         <a target="_blank" class="label label-blue" href="https://ebookcentral.proquest.com/lib/wisc/reader.action?docID=1204543&ppg=82">R</a>
         <a target="_blank" class="label label-yellow" href="https://docs.google.com/document/d/1h7w1fI9MmbEZwHM0KGeHuoWmAjXs-5gz/edit?usp=sharing&ouid=112970004581124194652&rtpof=true&sd=true">H</a>
         <a target="_blank" class="label label-red" href="https://canvas.wisc.edu/courses/397450/assignments/2256572">C</a>
-        </span>
       </td>
       <td></td>
     </tr>
