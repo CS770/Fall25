@@ -163,7 +163,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w08-seminar-accessibility.pdf">Accessibility</a></span><br />
         <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
          <a target="_blank" class="label label-blue" href="http://faculty.washington.edu/jtenenbg/publications/blindPersonInteraction-cacm2009.pdf">R1</a>
-        <a target="_blank" class="label label-blue" href="https://www.academia.edu/download/42191253/Moving.pdf">R2</a>
+        <a target="_blank" class="label label-blue" href="https://drive.google.com/file/d/1bEbRG3vmmwkvhM9_tTcGP6Lm2eA6fHys/view?usp=share_link">R2</a>
         <a target="_blank" class="label label-blue" href="https://dl.acm.org/doi/pdf/10.1145/3356727">R3</a>
         <a target="_blank" class="label label-green" href="https://dl.acm.org/doi/pdf/10.1145/2700648.2809865">O1</a>
         <a target="_blank" class="label label-green" href="http://www.mmi.ifi.lmu.de/pubdb/publications/pub/funk2015usinginsitu/funk2015usinginsitu.pdf">O2</a>
