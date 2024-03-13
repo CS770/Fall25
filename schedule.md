@@ -161,7 +161,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
     <tr>
       <td>Mar 11<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w08-seminar-accessibility.pdf">Accessibility</a></span><br />
-        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="https://mediaspace.wisc.edu/media/Yuhang+Zhao-Vilas+4028-03+11+24-10A52A57/1_mbsyz1j7">Recording</a></span><br />
          <a target="_blank" class="label label-blue" href="http://faculty.washington.edu/jtenenbg/publications/blindPersonInteraction-cacm2009.pdf">R1</a>
         <a target="_blank" class="label label-blue" href="https://drive.google.com/file/d/1bEbRG3vmmwkvhM9_tTcGP6Lm2eA6fHys/view?usp=share_link">R2</a>
         <a target="_blank" class="label label-blue" href="https://dl.acm.org/doi/pdf/10.1145/3356727">R3</a>
@@ -181,15 +181,12 @@ Links to lecture slides, readings, assignments will be posted in the table below
     </tr>
     <tr>
       <td>Mar 18<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Educational Technology</a><br />
-        <a target="_blank" class="btn btn-purple" href="">Online Studies</a><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Augmented/Virtual Reality</a><br />
+        <!-- <a target="_blank" class="btn btn-purple" href="">Online Studies</a><br /> -->
         <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
-        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Notes</a></span><br />
-        <a target="_blank" class="label label-blue" href="">R1</a>
-        <a target="_blank" class="label label-blue" href="">R2</a>
-        <a target="_blank" class="label label-blue" href="">R3</a>
-        <a target="_blank" class="label label-green" href="">O1</a>
-        <a target="_blank" class="label label-green" href="">O2</a></span>
+        <a target="_blank" class="label label-blue" href="https://drive.google.com/file/d/1xSe_yzpDo02SyDrNAs_0Prx_CVO60JGv/view?usp=sharing">R1</a>
+        <a target="_blank" class="label label-blue" href="https://ieeexplore-ieee-org.ezproxy.library.wisc.edu/stamp/stamp.jsp?tp=&arnumber=4637362">R2</a>
+        <a target="_blank" class="label label-green" href="https://chrisharrison.net/projects/omnitouch/omnitouch.pdf">O</a></span>
         <!-- <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550123">D</a><br /> -->
         <!-- <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a> -->
           <!-- <a target="_blank" class="btn btn-green" href="https://us-lti.bbcollab.com/recording/537c39f937014977a085d6d66cb6e4d5">Recording</a></span> -->
@@ -197,10 +194,10 @@ Links to lecture slides, readings, assignments will be posted in the table below
       <td>Mar 20<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Measurement II</a><br />
         <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
-        <a target="_blank" class="label label-blue" href="">R</a>
-        <a target="_blank" class="label label-green" href="">CSV</a>
+        <a target="_blank" class="label label-blue" href="https://ebookcentral.proquest.com/lib/wisc/reader.action?docID=1204543&ppg=140">R</a></span>
+        <!-- <a target="_blank" class="label label-green" href="">CSV</a>
         <a target="_blank" class="label label-green" href="">Code</a></span>
-        <!-- <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a> -->
+        <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a> -->
           <!-- <a target="_blank" class="btn btn-green" href="https://us-lti.bbcollab.com/recording/dd3c756ad25949f2b8d5496bf09a80db">Recording</a>
         </span> -->
       </td>
@@ -294,7 +291,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
     </tr>
     <tr>
       <td>Apr 22<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Augmented/Virtual Reality</a><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Educational Technology</a><br />
         <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
         <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Notes</a></span><br />
         <a target="_blank" class="label label-blue" href="">R1</a>
