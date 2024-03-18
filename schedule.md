@@ -179,7 +179,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
     </tr>
     <tr>
       <td>Mar 18<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">AR/VR</a><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w09-seminar-ar-vr.pdf">AR/VR</a><br />
         <!-- <a target="_blank" class="btn btn-purple" href="">Online Studies</a><br /> -->
         <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
         <a target="_blank" class="label label-blue" href="https://drive.google.com/file/d/1xSe_yzpDo02SyDrNAs_0Prx_CVO60JGv/view?usp=sharing">R1</a>
