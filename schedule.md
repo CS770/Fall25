@@ -190,9 +190,11 @@ Links to lecture slides, readings, assignments will be posted in the table below
           <!-- <a target="_blank" class="btn btn-green" href="https://us-lti.bbcollab.com/recording/537c39f937014977a085d6d66cb6e4d5">Recording</a></span> -->
       </td>
       <td>Mar 20<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Measurement II</a><br />
-        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
-        <a target="_blank" class="label label-blue" href="https://ebookcentral.proquest.com/lib/wisc/reader.action?docID=1204543&ppg=140">R</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w09-method-subjective.pdf">Measurement II</a><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="https://mediaspace.wisc.edu/media/Yuhang+Zhao-Vilas+4028-03+13+24-10A57A03/1_l2ptbwkp">Recording</a></span><br />
+        <a target="_blank" class="label label-blue" href="https://www-sciencedirect-com.ezproxy.library.wisc.edu/science/article/pii/B9780128053904000054">R1</a>
+        <a target="_blank" class="label label-blue" href="https://www-sciencedirect-com.ezproxy.library.wisc.edu/science/article/pii/B9780128180808000054">R2</a>
+        </span>
         <!-- <a target="_blank" class="label label-green" href="">CSV</a>
         <a target="_blank" class="label label-green" href="">Code</a></span>
         <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a> -->
