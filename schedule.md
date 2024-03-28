@@ -170,7 +170,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
       </td>
       <td>Mar 13<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w08-methods-measurement-1.pdf">Measurement I</a></span><br />
-        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="https://mediaspace.wisc.edu/media/Yuhang+Zhao-Vilas+4028-03+13+24-10A57A03/1_l2ptbwkp">Recording</a></span><br />
         <a target="_blank" class="label label-blue" href="https://ebookcentral.proquest.com/lib/wisc/reader.action?docID=1204543&ppg=82">R</a>
         <a target="_blank" class="label label-yellow" href="https://docs.google.com/document/d/1h7w1fI9MmbEZwHM0KGeHuoWmAjXs-5gz/edit?usp=sharing&ouid=112970004581124194652&rtpof=true&sd=true">H</a>
         <a target="_blank" class="label label-red" href="https://canvas.wisc.edu/courses/397450/assignments/2256572">C</a>
@@ -181,7 +181,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
       <td>Mar 18<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w09-seminar-ar-vr.pdf">AR/VR</a><br />
         <!-- <a target="_blank" class="btn btn-purple" href="">Online Studies</a><br /> -->
-        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="https://mediaspace.wisc.edu/media/SeminarA+AR+VR/1_jdzcv990">Recording</a></span><br />
         <a target="_blank" class="label label-blue" href="https://drive.google.com/file/d/1xSe_yzpDo02SyDrNAs_0Prx_CVO60JGv/view?usp=sharing">R1</a>
         <a target="_blank" class="label label-blue" href="https://ieeexplore-ieee-org.ezproxy.library.wisc.edu/stamp/stamp.jsp?tp=&arnumber=4637362">R2</a>
         <a target="_blank" class="label label-green" href="https://chrisharrison.net/projects/omnitouch/omnitouch.pdf">O</a></span>
@@ -191,7 +191,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
       </td>
       <td>Mar 20<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w09-method-subjective.pdf">Measurement II</a><br />
-        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="https://mediaspace.wisc.edu/media/Yuhang+Zhao-Vilas+4028-03+13+24-10A57A03/1_l2ptbwkp">Recording</a></span><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="https://mediaspace.wisc.edu/media/MethodsA+Measurement+II/1_y893aje9">Recording</a></span><br />
         <a target="_blank" class="label label-blue" href="https://www-sciencedirect-com.ezproxy.library.wisc.edu/science/article/pii/B9780128053904000054">R1</a>
         <a target="_blank" class="label label-blue" href="https://www-sciencedirect-com.ezproxy.library.wisc.edu/science/article/pii/B9780128180808000054">R2</a>
         </span>
@@ -214,11 +214,11 @@ Links to lecture slides, readings, assignments will be posted in the table below
     </tr>
     <tr>
       <td>Apr 1<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Mobile/Tangible (Guest)</a><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="https://canvas.wisc.edu/courses/397450/discussion_topics/1815320">Mobile/Tangible</a><br />
         <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
-        <a target="_blank" class="label label-blue" href="">R1</a>
-        <a target="_blank" class="label label-blue" href="">R2</a>
-        <a target="_blank" class="label label-blue" href="">R3</a></span>
+        <a target="_blank" class="label label-blue" href="https://www.jstor.org/stable/pdf/24938718.pdf">R1</a>
+        <a target="_blank" class="label label-blue" href="https://dl.acm.org/doi/pdf/10.1145/344949.344988">R2</a>
+        <a target="_blank" class="label label-blue" href="https://dl.acm.org/doi/pdf/10.1145/258549.258715">R3</a></span>
         <!-- <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550127">D</a><br /> -->
         <!-- <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a> -->
           <!-- <a target="_blank" class="btn btn-green" href="https://us-lti.bbcollab.com/recording/009a1bdc45664d04a37eb6380aea6e18">Recording</a></span> -->
@@ -226,8 +226,8 @@ Links to lecture slides, readings, assignments will be posted in the table below
       <td>Apr 3<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Measurement III</a><br />
         <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
-        <a target="_blank" class="label label-blue" href="">R1</a>
-        <a target="_blank" class="label label-blue" href="">R2</a>
+        <a target="_blank" class="label label-blue" href="https://ebookcentral.proquest.com/lib/wisc/reader.action?docID=1204543&ppg=82">R1</a>
+        <a target="_blank" class="label label-blue" href="https://www-sciencedirect-com.ezproxy.library.wisc.edu/science/article/pii/B9780128053904000133">R2</a>
         <a target="_blank" class="label label-yellow" href="">H</a></span>
         <!-- <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a> -->
           <!-- <a target="_blank" class="btn btn-green" href="https://us-lti.bbcollab.com/recording/90f3133f098644008bf16dfacad031fc">Recording</a></span> -->
