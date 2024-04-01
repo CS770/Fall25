@@ -214,12 +214,12 @@ Links to lecture slides, readings, assignments will be posted in the table below
     </tr>
     <tr>
       <td>Apr 1<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="https://canvas.wisc.edu/courses/397450/discussion_topics/1815320">Mobile/Tangible</a><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w10-seminar-mobile-tangible.pdf">Mobile/Tangible</a><br />
         <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
         <a target="_blank" class="label label-blue" href="https://www.jstor.org/stable/pdf/24938718.pdf">R1</a>
         <a target="_blank" class="label label-blue" href="https://dl.acm.org/doi/pdf/10.1145/344949.344988">R2</a>
         <a target="_blank" class="label label-blue" href="https://dl.acm.org/doi/pdf/10.1145/258549.258715">R3</a></span>
-        <!-- <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550127">D</a><br /> -->
+        <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/397450/discussion_topics/1815320">C</a><br />
         <!-- <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a> -->
           <!-- <a target="_blank" class="btn btn-green" href="https://us-lti.bbcollab.com/recording/009a1bdc45664d04a37eb6380aea6e18">Recording</a></span> -->
       </td>
