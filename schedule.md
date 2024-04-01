@@ -22,7 +22,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
     </tr>
     <tr>
       <td> Jan 22<br /><em>No class</em></td>
-      <td>Jan 24<br />
+      <td>Jan 24<br />data colle
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w01-course-introduction.pdf">Course Introduction</a></span><br />
         <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="https://mediaspace.wisc.edu/media/Course+Introduction/1_pztp8bc5">Recording</a></span><br />
       </td>
@@ -258,8 +258,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <!-- <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a> -->
           <!-- <a target="_blank" class="btn btn-green" href="https://us-lti.bbcollab.com/recording/f030a126cc6d49a1accd1df3ecdf584b">Recording</a></span> -->
       </td>
-      <td>Apr 12<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Data collection</a></span></td>
+      <td></td>
     </tr>
     <tr>
       <td>Apr 15<br />
@@ -284,10 +283,8 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <!-- <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a> -->
           <!-- <a target="_blank" class="btn btn-green" href="https://us-lti.bbcollab.com/recording/95d5a197cfb740439c3a76711d6f726d">Recording</a></span> -->
       </td>
-      <!-- <td>April 17<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/192620/assignments/747909">Assignment 2.B</a></span>
-      </td> -->
-      <td></td>
+      <td>Apr 19<br />
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/397450/assignments/2264690">Data collection</a></span></td>
     </tr>
     <tr>
       <td>Apr 22<br />
@@ -333,17 +330,14 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <!-- <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a> -->
           <!-- <a target="_blank" class="btn btn-green" href="https://us-lti.bbcollab.com/recording/bbe401da7caf4deb9f1f0c2e765823e6">Recording</a></span> -->
       </td>
-      <!-- <td>May 1<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/192620/assignments/747910">Assignment 2.C</a></span><br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/192620/assignments/819945">Analysis/Results</a></span>
-      </td> -->
-      <td></td>
+      <td>May 3<br />
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/397450/assignments/2264705">Data analysis</a></span></td>
     </tr>
     <tr>
       <td></td>    
       <!-- <td></td> -->
       <td>May 8<br />
-        <span class="fs-3"><a class="btn btn-blue" href="">Final paper</a></span>
+        <span class="fs-3"><a class="btn btn-blue" href="https://canvas.wisc.edu/courses/397450/assignments/2264708">Final paper</a></span>
       </td>
       <td></td>
     </tr>
