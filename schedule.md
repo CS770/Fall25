@@ -215,7 +215,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
     <tr>
       <td>Apr 1<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w10-seminar-mobile-tangible.pdf">Mobile/Tangible</a><br />
-        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="https://mediaspace.wisc.edu/media/SeminarA+Mobile+%26+Tangible+Computing/1_an6limly">Recording</a></span><br />
         <a target="_blank" class="label label-blue" href="https://www.jstor.org/stable/pdf/24938718.pdf">R1</a>
         <a target="_blank" class="label label-blue" href="https://dl.acm.org/doi/pdf/10.1145/344949.344988">R2</a>
         <a target="_blank" class="label label-blue" href="https://dl.acm.org/doi/pdf/10.1145/258549.258715">R3</a></span>
@@ -224,11 +224,12 @@ Links to lecture slides, readings, assignments will be posted in the table below
           <!-- <a target="_blank" class="btn btn-green" href="https://us-lti.bbcollab.com/recording/009a1bdc45664d04a37eb6380aea6e18">Recording</a></span> -->
       </td>
       <td>Apr 3<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Measurement III</a><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w10-methods-objective-physiological.pdf">Measurement III</a><br />
         <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
         <a target="_blank" class="label label-blue" href="https://ebookcentral.proquest.com/lib/wisc/reader.action?docID=1204543&ppg=82">R1</a>
         <a target="_blank" class="label label-blue" href="https://www-sciencedirect-com.ezproxy.library.wisc.edu/science/article/pii/B9780128053904000133">R2</a>
-        <a target="_blank" class="label label-yellow" href="">H</a></span>
+        <a target="_blank" class="label label-yellow" href="https://docs.google.com/document/d/14xyKIXR8vREfziG6khTwUfi6fXvSyAo4/edit?usp=sharing&ouid=112970004581124194652&rtpof=true&sd=true">H</a>
+        <a target="_blank" class="label label-red" href="https://canvas.wisc.edu/courses/397450/assignments/2265811">C</a></span>
         <!-- <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a> -->
           <!-- <a target="_blank" class="btn btn-green" href="https://us-lti.bbcollab.com/recording/90f3133f098644008bf16dfacad031fc">Recording</a></span> -->
       </td>
