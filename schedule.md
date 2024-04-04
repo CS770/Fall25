@@ -225,7 +225,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
       </td>
       <td>Apr 3<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w10-methods-objective-physiological.pdf">Measurement III</a><br />
-        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="https://mediaspace.wisc.edu/media/MethodsA+Objective%2C+Behavioral%2C+%26+Physiological+Measures/1_szlsp2qw">Recording</a></span><br />
         <a target="_blank" class="label label-blue" href="https://ebookcentral.proquest.com/lib/wisc/reader.action?docID=1204543&ppg=82">R1</a>
         <a target="_blank" class="label label-blue" href="https://www-sciencedirect-com.ezproxy.library.wisc.edu/science/article/pii/B9780128053904000133">R2</a>
         <a target="_blank" class="label label-yellow" href="https://docs.google.com/document/d/14xyKIXR8vREfziG6khTwUfi6fXvSyAo4/edit?usp=sharing&ouid=112970004581124194652&rtpof=true&sd=true">H</a>
@@ -240,12 +240,14 @@ Links to lecture slides, readings, assignments will be posted in the table below
     </tr>
     <tr>
       <td>Apr 8<br />
-      <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Privacy (Guest)</a><br />
+      <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Privacy</a><br />
       <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
-        <a target="_blank" class="label label-blue" href="">R1</a> <em>(Chapters 1 & 3)</em></span>
-        <a target="_blank" class="label label-blue" href="">R2</a>
-        <a target="_blank" class="label label-green" href="">O</a>
-        <!-- <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550127">D</a><br /> -->
+        <a target="_blank" class="label label-blue" href="http://www.cs.cmu.edu/afs/cs/Web/People/jasonh/publications/fnt-end-user-privacy-in-human-computer-interaction-final.pdf">R1</a> <em>(Chapters 1 & 3)</em></span>
+        <a target="_blank" class="label label-blue" href="https://www.cmu.edu/dietrich/sds/docs/loewenstein/PrivacyHumanBehAgeInfo.pdf">R2</a>
+        <a target="_blank" class="label label-green" href="https://crypto.stanford.edu/portia/papers/RevnissenbaumDTP31.pdf">O1</a>
+        <a target="_blank" class="label label-green" href="https://dl.acm.org/doi/pdf/10.1145/3290605.3300428">O2</a>
+        <a target="_blank" class="label label-green" href="https://dl.acm.org/doi/pdf/10.1145/3359161">O3</a>
+        <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/397450/discussion_topics/1818900">D</a>
         <!-- <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a> -->
           <!-- <a target="_blank" class="btn btn-green" href="https://us-lti.bbcollab.com/recording/ec3d727dce964fa1b09b93260d6b4999">Recording</a></span> -->
       </td>
