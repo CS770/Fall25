@@ -240,7 +240,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
     </tr>
     <tr>
       <td>Apr 8<br />
-      <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Privacy</a><br />
+      <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w11-seminar-privacy.pdf">Privacy</a><br />
       <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
         <a target="_blank" class="label label-blue" href="http://www.cs.cmu.edu/afs/cs/Web/People/jasonh/publications/fnt-end-user-privacy-in-human-computer-interaction-final.pdf">R1</a> <em>(Chapters 1 & 3)</em></span>
         <a target="_blank" class="label label-blue" href="https://www.cmu.edu/dietrich/sds/docs/loewenstein/PrivacyHumanBehAgeInfo.pdf">R2</a>
@@ -254,8 +254,8 @@ Links to lecture slides, readings, assignments will be posted in the table below
       <td>Apr 10<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Statistics I</a><br />
         <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
-        <a target="_blank" class="label label-blue" href="">R</a> <em>(Pages 71-80)</em>
-        <a target="_blank" class="label label-green" href="">O</a>
+        <a target="_blank" class="label label-blue" href="https://www-sciencedirect-com.ezproxy.library.wisc.edu/science/article/pii/B9780128053904000042">R</a> <em>(Pages 71-80)</em>
+        <a target="_blank" class="label label-green" href="https://ebookcentral.proquest.com/lib/wisc/reader.action?docID=1110719&ppg=210">O</a>
           <a target="_blank" class="label label-green" href="">R File</a>
         <a target="_blank" class="label label-yellow" href="">H</a></span>
         <!-- <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a> -->
