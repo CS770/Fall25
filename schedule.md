@@ -241,7 +241,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
     <tr>
       <td>Apr 8<br />
       <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w11-seminar-privacy.pdf">Privacy</a><br />
-      <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
+      <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="https://mediaspace.wisc.edu/media/SeminarA+Privacy/1_sff38dkq">Recording</a></span><br />
         <a target="_blank" class="label label-blue" href="http://www.cs.cmu.edu/afs/cs/Web/People/jasonh/publications/fnt-end-user-privacy-in-human-computer-interaction-final.pdf">R1</a> <em>(Chapters 1 & 3)</em></span>
         <a target="_blank" class="label label-blue" href="https://www.cmu.edu/dietrich/sds/docs/loewenstein/PrivacyHumanBehAgeInfo.pdf">R2</a>
         <a target="_blank" class="label label-green" href="https://crypto.stanford.edu/portia/papers/RevnissenbaumDTP31.pdf">O1</a>
@@ -267,14 +267,11 @@ Links to lecture slides, readings, assignments will be posted in the table below
       <td>Apr 15<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Physiological Computing</a><br />
         <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
-        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Notes</a></span><br />
-        <a target="_blank" class="label label-blue" href="">R1</a>
-        <a target="_blank" class="label label-blue" href="">R2</a>
-        <a target="_blank" class="label label-blue" href="">R3</a>
-        <a target="_blank" class="label label-green" href="">O</a></span>
-        <!-- <a target="_blank" class="label label-green" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550122">D</a><br />
-        <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a> -->
-          <!-- <a target="_blank" class="btn btn-green" href="https://us-lti.bbcollab.com/recording/e8be0327965a4aa9be7a4fae9f2c16d3">Recording</a></span> -->
+        <a target="_blank" class="label label-blue" href="http://physiologicalcomputing.org/wp-content/uploads/2015/03/fundamentals1.pdf">R1</a>
+        <a target="_blank" class="label label-blue" href="https://web.archive.org/web/20190303063731id_/http://pdfs.semanticscholar.org/c44e/645ad5cdb94c2892df371a2b0a265e2937d2.pdf">R2</a>
+        <a target="_blank" class="label label-blue" href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/Brain-Computer-Interfacing-for-Intelligent-Systems.pdf">R3</a>
+        <a target="_blank" class="label label-green" href="http://pages.cs.wisc.edu/~bilge/pubs/2012/CHI12-Szafir.pdf">O</a>
+        <a target="_blank" class="label label-green" href="https://canvas.wisc.edu/courses/397450/discussion_topics/1822979">C</a></span>
       </td>
       <td>Apr 17<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Statistics II</a><br />
