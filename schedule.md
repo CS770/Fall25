@@ -265,7 +265,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
     </tr>
     <tr>
       <td>Apr 15<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Physiological Computing</a><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w13-seminar-physiological-computing.pdf">Physiological Computing</a><br />
         <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
         <a target="_blank" class="label label-blue" href="http://physiologicalcomputing.org/wp-content/uploads/2015/03/fundamentals1.pdf">R1</a>
         <a target="_blank" class="label label-blue" href="https://web.archive.org/web/20190303063731id_/http://pdfs.semanticscholar.org/c44e/645ad5cdb94c2892df371a2b0a265e2937d2.pdf">R2</a>
