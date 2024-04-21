@@ -282,7 +282,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
     </tr>
     <tr>
       <td>Apr 22<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">End-User Programming</a><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w14-seminar-authoring-tools.pdf">End-User Programming</a><br />
         <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
         <a target="_blank" class="label label-blue" href="https://faculty.washington.edu/ajko/papers/Ko2011EndUserSoftwareEngineering.pdf">R1</a>
         <a target="_blank" class="label label-blue" href="https://pages.cs.wisc.edu/~aws/papers/uist19.pdf">R2</a>
