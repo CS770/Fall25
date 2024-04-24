@@ -282,7 +282,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
     <tr>
       <td>Apr 22<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w14-seminar-authoring-tools.pdf">End-User Programming</a><br />
-        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="https://mediaspace.wisc.edu/media/SeminarA+EUP/1_p01c6gad">Recording</a></span><br />
         <a target="_blank" class="label label-blue" href="https://faculty.washington.edu/ajko/papers/Ko2011EndUserSoftwareEngineering.pdf">R1</a>
         <a target="_blank" class="label label-blue" href="https://pages.cs.wisc.edu/~aws/papers/uist19.pdf">R2</a>
         <a target="_blank" class="label label-green" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550125">C</a></span>
@@ -291,7 +291,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
       </td>
       <td>Apr 24<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w14-methods-statistics-3.pdf">Statistics III</a><br />
-        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="https://mediaspace.wisc.edu/media/MethodsA+Statistics+II/1_1j72le5a">Recording</a></span><br />
         <a target="_blank" class="label label-blue" href="https://www-sciencedirect-com.ezproxy.library.wisc.edu/science/article/pii/B9780128053904000042">R</a> <em>(Pages 80-104)</em>
         <a target="_blank" class="label label-green" href="https://ebookcentral.proquest.com/lib/wisc/reader.action?docID=1110719&ppg=210">O</a></span>
         <!-- <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a> -->
