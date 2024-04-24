@@ -134,7 +134,6 @@ Links to lecture slides, readings, assignments will be posted in the table below
       <td>February 28<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/397450/assignments/2248820">Human Subjects Research Training</a></span>
       </td>
-      <td></td>
     </tr>
     <tr>
       <td>Mar 4<br />
@@ -298,7 +297,6 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <!-- <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a> -->
           <!-- <a target="_blank" class="btn btn-green" href="https://us-lti.bbcollab.com/recording/fc46d041731643cd883c2f802543ffaf">Recording</a></span> -->
       </td>
-      <td></td>
       <td>Bonus Lecture<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/w14-methods-reporting.pdf">Reporting</a><br />
         <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="https://mediaspace.wisc.edu/media/MethodsA+Reporting/1_qqrzn3ry">Recording</a><br />
