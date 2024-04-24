@@ -290,7 +290,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
           <!-- <a target="_blank" class="btn btn-green" href="https://us-lti.bbcollab.com/recording/d2e3137cc77c4899998a865eb316f63c">Recording</a></span> -->
       </td>
       <td>Apr 24<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Statistics III</a><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w14-methods-statistics-3.pdf">Statistics III</a><br />
         <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="">Recording</a></span><br />
         <a target="_blank" class="label label-blue" href="https://www-sciencedirect-com.ezproxy.library.wisc.edu/science/article/pii/B9780128053904000042">R</a> <em>(Pages 80-104)</em>
         <a target="_blank" class="label label-green" href="https://ebookcentral.proquest.com/lib/wisc/reader.action?docID=1110719&ppg=210">O</a></span>
