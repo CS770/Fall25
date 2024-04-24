@@ -299,8 +299,12 @@ Links to lecture slides, readings, assignments will be posted in the table below
           <!-- <a target="_blank" class="btn btn-green" href="https://us-lti.bbcollab.com/recording/fc46d041731643cd883c2f802543ffaf">Recording</a></span> -->
       </td>
       <td></td>
-      <!-- <td>December 9<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/192620/assignments/809057">Data collection</a></span></td> -->
+      <td>Bonus Lecture<br />
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/w14-methods-reporting.pdf">Reporting</a><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-yellow" href="https://mediaspace.wisc.edu/media/MethodsA+Reporting/1_qqrzn3ry">Recording</a><br />
+        <a target="_blank" class="label label-blue" href="https://canvas.wisc.edu/courses/397450/assignments/2279426/">R</a></span>
+          <a target="_blank" class="label label-yellow" href="https://docs.google.com/document/d/1tw_Ryv5sbk7gjFmo82KlAp28x-F2oWmZYsm3KDEQs3E/edit?usp=sharing">H</a> (optional)</span>
+      </td>
     </tr>
     <tr>
       <td>Apr 29<br />
