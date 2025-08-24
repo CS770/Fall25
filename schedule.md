@@ -2,7 +2,11 @@
 title: Schedule
 nav_order: 2
 ---
-Links to lecture slides, readings, assignments will be posted in the table below by the time of the lecture or the release of the assignment.  <a class="label label-blue" >S</a> links to the Canvas page for seminar readings and reflection assignment; and <a class="label label-red" >M</a> points to the Canvas page for methods readings and assignment submission.
+Links to lecture slides, readings, assignments will be posted in the table below by the time of the lecture or the release of the assignment.  
+
+<a class="label label-blue" >S</a> links to the Canvas page for seminar readings and reflection assignment.
+
+<a class="label label-red" >M</a> points to the Canvas page for methods readings and assignment submission.
 
 <table>
   <thead>

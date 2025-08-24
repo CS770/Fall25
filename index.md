@@ -39,34 +39,3 @@ The course is designed primarily for graduate students in computer science, psyc
 	</td>
 </tr>
 </table>
-
-<table>
-<tr>
-	<td>
-		<a class="label" href="">Course location</a>
-	</td>
-	<td>
-		MW 1:00 pm – 2:15 pm, Morgridge B2590
-	</td>
-</tr>
-<tr>
-	<td>
-		<a class="label" href="">Instructor office hours</a>
-	</td>
-	<td>
-		M 2:15 - 3:00 pm, Morgridge 2513
-	</td>
-</tr>
-<tr>
-	<td>
-		<a class="label" href="">TA office hours</a>
-	</td>
-	<td>
-		Mondays 2:30-3:30pm, <a href="https://uwmadison.zoom.us/j/96018953831?pwd=cFozMHJzQmpaNGVXMm9MQkpjY1NsZz09">Zoom</a></br>
-		Wednesdays 2:30-3:30pm — Morgridge 2513
-	</td>
-</tr>
-</table>
-
-
-
