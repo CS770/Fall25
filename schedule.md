@@ -28,11 +28,17 @@ Links to lecture slides, readings, assignments will be posted in the table below
     <tr>
       <td>Sep 1<br /><em>No class</em></td>
       <td>Sep 3<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w01-course-introduction.pdf">Course Introduction</a></span><br />
-       <a target="_blank" class="label label-red" href="https://canvas.wisc.edu/courses/475834/assignments/2781887">S</a>
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w01-course-introduction.pdf">Course Introduction</a></span>
       </td>
       <td>Sep 5<br /><em>No deliverable</em></td>
     </tr>
+    <tr>
+      <td>Sep 8<br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w02-seminar-history.pdf">History of HCI</a></span><br />
+       <a target="_blank" class="label label-red" href="https://canvas.wisc.edu/courses/475834/assignments/2781887">S</a>
+      </td>
+      <td>Sep 10<br /><em></em></td>
+      <td>Sep 12<br /><em></em></td>
+    </tr>
   </tbody>
 </table>
-
