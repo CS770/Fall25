@@ -37,9 +37,18 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w02-seminar-history.pdf">History of HCI</a></span><br />
        <a target="_blank" class="label label-red" href="https://canvas.wisc.edu/courses/475834/assignments/2781887">S</a>
       </td>
-      <td>Sep 10<br /><br />
+      <td>Sep 10<br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w02-methods-intro.pdf">Intro to HCI Methods</a></span><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w02-project-intro.pdf">Intro to Project</a></span><br />
        <a target="_blank" class="label label-blue" href="https://canvas.wisc.edu/courses/475834/assignments/2743718">M</a></td>
       <td>Sep 12<br /><em></em></td>
+    </tr>
+    <tr>
+      <td>Sep 15<br /><br />
+       <a target="_blank" class="label label-red" href="[https://canvas.wisc.edu/courses/475834/assignments/2781887](https://canvas.wisc.edu/courses/475834/assignments/2847522)">S</a>
+      </td>
+      <td>Sep 17<br /></td>
+      <td>Sep 19<br /></td>
     </tr>
   </tbody>
 </table>
