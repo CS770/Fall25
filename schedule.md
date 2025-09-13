@@ -41,7 +41,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w02-methods-intro.pdf">Intro to HCI Methods</a></span><br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w02-project-intro.pdf">Intro to Project</a></span><br />
        <a target="_blank" class="label label-blue" href="https://canvas.wisc.edu/courses/475834/assignments/2743718">M</a></td>
-      <td>Sep 12<br /><em></em></td>
+      <td>Sep 12<br /><em>No deliverable</em></td>
     </tr>
     <tr>
       <td>Sep 15<br />
@@ -51,7 +51,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
       <td>Sep 17<br />
         <a target="_blank" class="label label-blue" href="https://canvas.wisc.edu/courses/475834/assignments/2743714">M</a>
       </td>
-      <td>Sep 19<br /></td>
+      <td>Sep 19<br /><em>No deliverable</em></td>
     </tr>
   </tbody>
 </table>
