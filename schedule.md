@@ -6,7 +6,9 @@ Links to lecture slides, readings, assignments will be posted in the table below
 
 <a class="label label-red" >S</a> links to the Canvas page for seminar readings and reflection assignment.
 
-<a class="label label-blue" >M</a> points to the Canvas page for methods readings and assignment submission.
+<a class="label label-blue" >MR</a> points to the Canvas page for methods readings submission.
+
+<a class="label label-yellow" >MA</a> points to the Canvas page for methods assignment submission.
 
 <a class="label label-green" >P</a> points to the Canvas page for project deliverable assignment & submission.
 
@@ -50,9 +52,19 @@ Links to lecture slides, readings, assignments will be posted in the table below
       </td>
       <td>Sep 17<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w03-methods-choosing.pdf">Methodological Choices</a></span><br />
-        <a target="_blank" class="label label-blue" href="https://canvas.wisc.edu/courses/475834/assignments/2743714">M</a>
+        <a target="_blank" class="label label-blue" href="https://canvas.wisc.edu/courses/475834/assignments/2743714">MR</a>
+        <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/475834/assignments/2850801">MA</a>
       </td>
       <td>Sep 19<br /><em>No deliverable</em></td>
+    </tr>
+    <tr>
+      <td>Sep 22<br />
+       <a target="_blank" class="label label-red" href="https://canvas.wisc.edu/courses/475834/assignments/2852146">S</a>
+      </td>
+      <td>Sep 24<br />
+        <a target="_blank" class="label label-blue" href="https://canvas.wisc.edu/courses/475834/assignments/2852147">MR</a>
+      </td>
+      <td>Sep 26<br /><em>No deliverable</em></td>
     </tr>
   </tbody>
 </table>
