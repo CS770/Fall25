@@ -63,7 +63,9 @@ Links to lecture slides, readings, assignments will be posted in the table below
        <a target="_blank" class="label label-red" href="https://canvas.wisc.edu/courses/475834/assignments/2852146">S</a>
       </td>
       <td>Sep 24<br />
-        <a target="_blank" class="label label-blue" href="https://canvas.wisc.edu/courses/475834/assignments/2852147">MR</a>
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w04-methods-design.pdf">Design-led Inquiry</a></span><br />
+        <a target="_blank" class="label label-blue" href="https://canvas.wisc.edu/courses/475834/assignments/2743714">MR</a>
+        <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/475834/assignments/2853528">MA</a>
       </td>
       <td>Sep 26<br /><em>No deliverable</em></td>
     </tr>
