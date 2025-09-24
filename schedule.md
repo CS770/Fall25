@@ -67,7 +67,21 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <a target="_blank" class="label label-blue" href="https://canvas.wisc.edu/courses/475834/assignments/2743714">MR</a>
         <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/475834/assignments/2853528">MA</a>
       </td>
-      <td>Sep 26<br /><em>No deliverable</em></td>
+      <td>Sep 26<br />
+        <a target="_blank" class="label label-green" href="https://canvas.wisc.edu/courses/475834/assignments/2743722">P</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Sep 29<br />
+       <a target="_blank" class="label label-red" href="https://canvas.wisc.edu/courses/475834/assignments/2855002">S</a>
+      </td>
+      <td>Oct 01<br />
+      </td>
+      <td>Oct 03<br />
+        <a target="_blank" class="label label-green" href="https://canvas.wisc.edu/courses/475834/assignments/2743721">P</a>
     </tr>
   </tbody>
 </table>
+
+
+
