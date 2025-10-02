@@ -84,6 +84,14 @@ Links to lecture slides, readings, assignments will be posted in the table below
       <td>Oct 03<br />
         <a target="_blank" class="label label-green" href="https://canvas.wisc.edu/courses/475834/assignments/2743721">P</a>
     </tr>
+    <tr>
+      <td>Oct 06<br />
+        <a target="_blank" class="label label-red" href="https://canvas.wisc.edu/courses/475834/assignments/2859043">S</a>
+      </td>
+      <td>Oct 08<br />
+      </td>
+      <td>Oct 10<br />
+    </tr>
   </tbody>
 </table>
 
