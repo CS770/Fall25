@@ -98,9 +98,11 @@ Links to lecture slides, readings, assignments will be posted in the table below
     </tr>
     <tr>
       <td>Oct 13<br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w07-seminar-cscw.pdf">CSCW</a></span><br />
         <a target="_blank" class="label label-red" href="https://canvas.wisc.edu/courses/475834/assignments/2861502">S</a>
       </td>
       <td>Oct 15<br />
+        <a target="_blank" class="label label-blue" href="https://canvas.wisc.edu/courses/475834/assignments/2863320">MR</a>
       </td>
       <td>Oct 17<br />
     </tr>
