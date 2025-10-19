@@ -109,6 +109,17 @@ Links to lecture slides, readings, assignments will be posted in the table below
       <td>Oct 17<br />
         <a target="_blank" class="label label-green" href="https://canvas.wisc.edu/courses/475834/assignments/2864212">P</a>
     </tr>
+    <tr>
+      <td>Oct 20<br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w08-seminar-mobile-tangible.pdf">Mobile & Tangible Computing</a></span><br />
+        <a target="_blank" class="label label-red" href="https://canvas.wisc.edu/courses/475834/assignments/2865358">S</a>
+      </td>
+      <td>Oct 22<br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w07-methods-qualitative-analysis.pdf">Qualitative Data Analysis</a></span><br />
+        <a target="_blank" class="label label-blue" href="https://canvas.wisc.edu/courses/475834/assignments/2866915">MR</a>
+      </td>
+      <td>Oct 24<br /><em>No deliverable</em></td>
+    </tr>
   </tbody>
 </table>
 
