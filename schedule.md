@@ -115,6 +115,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <a target="_blank" class="label label-red" href="https://canvas.wisc.edu/courses/475834/assignments/2865358">S</a>
       </td>
       <td>Oct 22<br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w08-methods-experimental.pdf">Experimental Research</a></span><br />
         <a target="_blank" class="label label-blue" href="https://canvas.wisc.edu/courses/475834/assignments/2866915">MR</a>
       </td>
       <td>Oct 24<br /><em>No deliverable</em></td>
