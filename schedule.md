@@ -121,16 +121,24 @@ Links to lecture slides, readings, assignments will be posted in the table below
       <td>Oct 24<br /><em>No deliverable</em></td>
     </tr>
     <tr>
-      <td>Oct 20<br />
+      <td>Oct 27<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w09-ARVR.pdf">AR/VR</a></span><br />
         <a target="_blank" class="label label-red" href="https://canvas.wisc.edu/courses/475834/assignments/2868708">S</a>
       </td>
-      <td>Oct 22<br />
+      <td>Oct 29<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w09-methods-measurement-1.pdf">Measurement I</a></span><br />
         <a target="_blank" class="label label-blue" href="https://canvas.wisc.edu/courses/475834/assignments/2869881">MR</a>
       </td>
-      <td>Oct 24<br />
+      <td>Oct 31<br />
         <a target="_blank" class="label label-green" href="https://canvas.wisc.edu/courses/475834/assignments/2743723">P</a></td>
+    </tr>
+    <tr>
+      <td>Nov 03<br />
+        <a target="_blank" class="label label-red" href="https://canvas.wisc.edu/courses/475834/assignments/2872589">S</a>
+      </td>
+      <td>Nov 05<br />
+      </td>
+      <td>Nov 07<br /><em>No deliverable</em></td>
     </tr>
   </tbody>
 </table>
