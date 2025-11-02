@@ -134,6 +134,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
     </tr>
     <tr>
       <td>Nov 03<br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w10-seminar-physiological-computing.pdf">Adaptive & Physiological Computing</a></span><br />
         <a target="_blank" class="label label-red" href="https://canvas.wisc.edu/courses/475834/assignments/2872589">S</a>
       </td>
       <td>Nov 05<br />
