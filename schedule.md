@@ -138,6 +138,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <a target="_blank" class="label label-red" href="https://canvas.wisc.edu/courses/475834/assignments/2872589">S</a>
       </td>
       <td>Nov 05<br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w10-methods-measurement-2.pdf">Measurement II</a></span><br />
         <a target="_blank" class="label label-blue" href="https://canvas.wisc.edu/courses/475834/assignments/2873942">MR</a>
       </td>
       <td>Nov 07<br /><em>No deliverable</em></td>
