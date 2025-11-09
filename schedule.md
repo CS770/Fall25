@@ -143,6 +143,15 @@ Links to lecture slides, readings, assignments will be posted in the table below
       </td>
       <td>Nov 07<br /><em>No deliverable</em></td>
     </tr>
+    <tr>
+      <td>Nov 10<br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w11-seminar-accessibility.pdf">Accessibility & Universal Design</a></span><br />
+        <a target="_blank" class="label label-red" href="https://canvas.wisc.edu/courses/475834/assignments/2875167">S</a>
+      </td>
+      <td>Nov 12<br />
+      </td>
+      <td>Nov 14<br /><em>No deliverable</em></td>
+    </tr>
   </tbody>
 </table>
 
