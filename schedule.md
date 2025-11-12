@@ -128,6 +128,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
       <td>Oct 29<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w09-methods-measurement-1.pdf">Measurement I</a></span><br />
         <a target="_blank" class="label label-blue" href="https://canvas.wisc.edu/courses/475834/assignments/2869881">MR</a>
+        <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/475834/assignments/2871586">MA</a>
       </td>
       <td>Oct 31<br />
         <a target="_blank" class="label label-green" href="https://canvas.wisc.edu/courses/475834/assignments/2743723">P</a></td>
@@ -149,6 +150,8 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <a target="_blank" class="label label-red" href="https://canvas.wisc.edu/courses/475834/assignments/2875167">S</a>
       </td>
       <td>Nov 12<br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w11-methods-statistics-1.pdf">Statistics I</a></span><br />
+        <a target="_blank" class="label label-blue" href="https://canvas.wisc.edu/courses/475834/assignments/2877090">MR</a>
       </td>
       <td>Nov 14<br /><em>No deliverable</em></td>
     </tr>
