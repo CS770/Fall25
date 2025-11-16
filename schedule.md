@@ -157,6 +157,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
     </tr>
     <tr>
       <td>Nov 17<br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w12-seminar-privacy.pdf">Privacy & Ethics</a></span><br />
         <a target="_blank" class="label label-red" href="https://canvas.wisc.edu/courses/475834/assignments/2878597">S</a>
       </td>
       <td>Nov 19<br />
