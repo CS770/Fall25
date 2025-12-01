@@ -167,6 +167,22 @@ Links to lecture slides, readings, assignments will be posted in the table below
       <td>Nov 21<br />
         <a target="_blank" class="label label-green" href="https://canvas.wisc.edu/courses/475834/assignments/2743727">P</a></td>
     </tr>
+    <tr>
+      <td>Nov 24<br /><em>No class</em></td>
+      <td>Nov 26<br /><em>No class</em></td>
+      <td>Nov 28<br /><em>No deliverable</em></td>
+    </tr>
+    <tr>
+      <td>Dec 1<br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w13-seminar-responsible-design.pdf">Privacy & Ethics</a></span><br />
+        <a target="_blank" class="label label-red" href="https://canvas.wisc.edu/courses/475834/assignments/2883748">S</a>
+      </td>
+      <td>Dec 3<br /></td>
+      <td>Dec 5<br />
+        <a target="_blank" class="label label-green" href="https://canvas.wisc.edu/courses/475834/assignments/2743719">P</a></td>
+    </tr>
+
+    w13-seminar-responsible-design.pdf
   </tbody>
 </table>
 
