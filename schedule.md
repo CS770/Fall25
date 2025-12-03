@@ -177,7 +177,10 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w13-seminar-responsible-design.pdf">Responsible & Ethical Design</a></span><br />
         <a target="_blank" class="label label-red" href="https://canvas.wisc.edu/courses/475834/assignments/2883748">S</a>
       </td>
-      <td>Dec 3<br /><em>No reading</em></td>
+      <td>Dec 3<br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w13-methods-reporting.pdf">Responsible & Ethical Design</a></span><br />
+        <em>No reading</em>
+      </td>
       <td>Dec 5<br />
         <a target="_blank" class="label label-green" href="https://canvas.wisc.edu/courses/475834/assignments/2743719">P</a></td>
     </tr>
